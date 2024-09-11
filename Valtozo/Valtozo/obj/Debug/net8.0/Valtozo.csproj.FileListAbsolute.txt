@@ -1,0 +1,14 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\bin\Debug\net8.0\Valtozo.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\bin\Debug\net8.0\Valtozo.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\bin\Debug\net8.0\Valtozo.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\bin\Debug\net8.0\Valtozo.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\bin\Debug\net8.0\Valtozo.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\refint\Valtozo.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\ref\Valtozo.dll
