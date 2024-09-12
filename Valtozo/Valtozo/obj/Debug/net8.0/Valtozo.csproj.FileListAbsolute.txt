@@ -12,3 +12,4 @@ D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\
 D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.pdb
 D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.genruntimeconfig.cache
 D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\ref\Valtozo.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Valtozo\Valtozo\obj\Debug\net8.0\Valtozo.sourcelink.json

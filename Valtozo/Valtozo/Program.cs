@@ -36,7 +36,13 @@ namespace Valtozo
             karakter++;
             Console.WriteLine(karakter);
 
-            
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.Clear();
+            Console.WriteLine("HELLO");
+
+            Console.BackgroundColor = ConsoleColor.Black;
+
+            Console.ReadKey();
         }
     }
 }
