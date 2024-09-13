@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Valtozo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cbfabff417ab24b3f09244c3c489d22a591dac4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca3f048cc8a0faf4da1088fe3c52240628036837")]
 [assembly: System.Reflection.AssemblyProductAttribute("Valtozo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Valtozo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

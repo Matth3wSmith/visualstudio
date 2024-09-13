@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\bin\Debug\net8.0\Elagazasok.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\bin\Debug\net8.0\Elagazasok.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\bin\Debug\net8.0\Elagazasok.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\bin\Debug\net8.0\Elagazasok.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\bin\Debug\net8.0\Elagazasok.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\Elagazasok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\Elagazasok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\Elagazasok.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\Elagazasok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\Elagazasok.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\Elagazasok.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\refint\Elagazasok.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\Elagazasok.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\Elagazasok.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Elagazasok\Elagazasok\obj\Debug\net8.0\ref\Elagazasok.dll

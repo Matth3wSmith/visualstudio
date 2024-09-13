@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Elagazasok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0402E6BE-1EE1-4E93-82A6-8568742B6A4E}|Elagazasok\\Elagazasok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\elagazasok\\elagazasok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0402E6BE-1EE1-4E93-82A6-8568742B6A4E}|Elagazasok\\Elagazasok.csproj|solutionrelative:elagazasok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Elagazasok\\Elagazasok\\Program.cs",
+              "RelativeDocumentMoniker": "Elagazasok\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Elagazasok\\Elagazasok\\Program.cs",
+              "RelativeToolTip": "Elagazasok\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:00:45.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
