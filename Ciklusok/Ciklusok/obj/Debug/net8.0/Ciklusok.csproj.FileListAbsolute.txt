@@ -1,0 +1,15 @@
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\Ciklusok.GeneratedMSBuildEditorConfig.editorconfig
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\Ciklusok.AssemblyInfoInputs.cache
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\Ciklusok.AssemblyInfo.cs
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\Ciklusok.csproj.CoreCompileInputs.cache
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\Ciklusok.sourcelink.json
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\bin\Debug\net8.0\Ciklusok.exe
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\bin\Debug\net8.0\Ciklusok.deps.json
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\bin\Debug\net8.0\Ciklusok.runtimeconfig.json
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\bin\Debug\net8.0\Ciklusok.dll
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\bin\Debug\net8.0\Ciklusok.pdb
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\Ciklusok.dll
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\refint\Ciklusok.dll
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\Ciklusok.pdb
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\Ciklusok.genruntimeconfig.cache
+G:\Suli\Programozási alapok\visualstudio\Ciklusok\Ciklusok\obj\Debug\net8.0\ref\Ciklusok.dll
