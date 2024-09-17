@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Órai-09-17/1.0.0": {
+        "runtime": {
+          "Órai-09-17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Órai-09-17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

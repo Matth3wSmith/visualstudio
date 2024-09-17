@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\bin\Debug\net8.0\Órai-09-17.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\bin\Debug\net8.0\Órai-09-17.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\bin\Debug\net8.0\Órai-09-17.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\bin\Debug\net8.0\Órai-09-17.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\bin\Debug\net8.0\Órai-09-17.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\Órai-09-17.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\Órai-09-17.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\Órai-09-17.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\Órai-09-17.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\Órai-09-17.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\Órai-09-17.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\refint\Órai-09-17.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\Órai-09-17.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\Órai-09-17.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Ciklusok\Órai-09-17\obj\Debug\net8.0\ref\Órai-09-17.dll
