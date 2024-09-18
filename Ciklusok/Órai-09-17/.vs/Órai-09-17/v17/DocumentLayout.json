@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4E2F82D-AFD0-4B81-8C99-336355E950A1}|\u00D3rai-09-17.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\ciklusok\\\u00F3rai-09-17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4E2F82D-AFD0-4B81-8C99-336355E950A1}|\u00D3rai-09-17.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E2F82D-AFD0-4B81-8C99-336355E950A1}|\u00D3rai-09-17.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\ciklusok\\\u00F3rai-09-17\\\u00F3rai-09-17.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4E2F82D-AFD0-4B81-8C99-336355E950A1}|\u00D3rai-09-17.csproj|solutionrelative:\u00F3rai-09-17.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u00D3rai-09-17.csproj",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Ciklusok\\\u00D3rai-09-17\\\u00D3rai-09-17.csproj",
+              "RelativeDocumentMoniker": "\u00D3rai-09-17.csproj",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Ciklusok\\\u00D3rai-09-17\\\u00D3rai-09-17.csproj",
+              "RelativeToolTip": "\u00D3rai-09-17.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T11:04:19.056Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
