@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Ciklusok\\09-18\\",
+  "WorkspaceRootPath": "G:\\Suli\\Programoz\u00E1si alapok\\visualstudio\\Ciklusok\\09-18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{365B9B19-BD79-40DE-8D8F-0BAD9FF91FCF}|09-18.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\ciklusok\\09-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{365B9B19-BD79-40DE-8D8F-0BAD9FF91FCF}|09-18.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Suli\\Programoz\u00E1si alapok\\visualstudio\\Ciklusok\\09-18\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Ciklusok\\09-18\\Program.cs",
+              "DocumentMoniker": "G:\\Suli\\Programoz\u00E1si alapok\\visualstudio\\Ciklusok\\09-18\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Ciklusok\\09-18\\Program.cs",
+              "ToolTip": "G:\\Suli\\Programoz\u00E1si alapok\\visualstudio\\Ciklusok\\09-18\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCoAAAARAAAA",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T11:05:43.639Z",
               "EditorCaption": ""
