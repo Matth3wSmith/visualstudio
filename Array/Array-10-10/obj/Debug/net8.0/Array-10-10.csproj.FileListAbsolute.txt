@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\Array-10-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\Array-10-10.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\Array-10-10.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\Array-10-10.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\Array-10-10.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\bin\Debug\net8.0\Array-10-10.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\bin\Debug\net8.0\Array-10-10.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\bin\Debug\net8.0\Array-10-10.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\bin\Debug\net8.0\Array-10-10.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\bin\Debug\net8.0\Array-10-10.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\Array-10-10.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\refint\Array-10-10.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\Array-10-10.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\Array-10-10.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Array\Array-10-10\obj\Debug\net8.0\ref\Array-10-10.dll
