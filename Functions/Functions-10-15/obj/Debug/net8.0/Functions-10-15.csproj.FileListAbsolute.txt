@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\Functions-10-15.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\Functions-10-15.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\Functions-10-15.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\Functions-10-15.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\Functions-10-15.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\bin\Debug\net8.0\Functions-10-15.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\bin\Debug\net8.0\Functions-10-15.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\bin\Debug\net8.0\Functions-10-15.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\bin\Debug\net8.0\Functions-10-15.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\bin\Debug\net8.0\Functions-10-15.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\Functions-10-15.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\refint\Functions-10-15.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\Functions-10-15.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\Functions-10-15.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Functions\Functions-10-15\obj\Debug\net8.0\ref\Functions-10-15.dll
