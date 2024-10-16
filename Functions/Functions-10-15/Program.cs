@@ -29,6 +29,40 @@
             }
             Console.WriteLine(osszeg);
         }
+
+        //10-16
+        static string szamNev(int szam)
+        {
+            string[] nevek = ["nulla", "egy", "kettő", "három", "négy", "öt", "hat", "hét", "nyolc", "kilenc"];
+            if (szam < 0)
+            {
+                return "Túl kicsi a szám";
+            }
+            else if (szam > 9)
+            {
+                return "Túl nagy a szám";
+            }
+            else
+            {
+                return nevek[szam];
+            }
+        }
+        static void szamNevKiir(int szam)
+        {
+            string[] nevek = ["nulla", "egy", "kettő", "három", "négy", "öt", "hat", "hét", "nyolc", "kilenc"];
+            if (szam < 0)
+            {
+                Console.WriteLine("Túl kicsi a szám");
+            }
+            else if (szam > 9)
+            {
+                Console.WriteLine("Túl nagy a szám");
+            }
+            else
+            {
+                Console.WriteLine(nevek[szam]);
+            }
+        }
         static void Main(string[] args)
         {
             Console.WriteLine(osszeadas(10,56));
@@ -39,7 +73,16 @@
             Console.WriteLine(osztas(2, 4));
             Console.WriteLine(osztas(2.5, 1.2));
 
+            //10-16
+            //Függvény ami kap egy egyjegyű pozitív számot és visszaadja szövegesen annak a számnak a nevét ha negatív a szám akkor adja vissza hogy túl kicsi ha nagyobb mint 9 akkor túl nagy
+            Console.WriteLine(szamNev(5));
+            Console.WriteLine(szamNev(-1));
+            Console.WriteLine(szamNev(10));
 
+            //Függvény ami a parameterkent kapott egyjegyű pozítiv egész számot kiírja a konzolba
+            szamNevKiir(5);
+            szamNevKiir(-1);
+            szamNevKiir(10);
         }
     }
 }
