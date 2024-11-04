@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\Random-11-04.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\Random-11-04.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\Random-11-04.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\Random-11-04.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\Random-11-04.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\bin\Debug\net8.0\Random-11-04.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\bin\Debug\net8.0\Random-11-04.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\bin\Debug\net8.0\Random-11-04.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\bin\Debug\net8.0\Random-11-04.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\bin\Debug\net8.0\Random-11-04.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\Random-11-04.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\refint\Random-11-04.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\Random-11-04.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\Random-11-04.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Random-10-24\Random-11-04\obj\Debug\net8.0\ref\Random-11-04.dll
