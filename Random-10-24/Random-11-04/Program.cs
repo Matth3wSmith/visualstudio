@@ -6,8 +6,8 @@
         {
             //függvény ami valamennyi 3 jegyű páros számot generál
 
-            tombKiir(randomSzamok(5));
-
+            double kiirni=randomMegadottSzam(5,6);
+            Console.WriteLine(kiirni);
             Console.ReadKey();
             
         }
@@ -43,7 +43,7 @@
         //adott számjegyű számokat és adott számmla soztható számot generál
         static int randomMegadottSzam(int szamjegy, int oszthato)
         {
-            return rand.Next(10**(szamjegy-1),10**szamjegy) * oszthato;
+            return rand.Next(((int)Math.Pow(10,(szamjegy-1)))/oszthato, ((int)Math.Pow(10,szamjegy))/oszthato) * oszthato;
         }
     }
 }
