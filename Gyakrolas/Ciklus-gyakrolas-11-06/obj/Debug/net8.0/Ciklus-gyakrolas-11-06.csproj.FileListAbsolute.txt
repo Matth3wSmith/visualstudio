@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\bin\Debug\net8.0\Ciklus-gyakrolas-11-06.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\bin\Debug\net8.0\Ciklus-gyakrolas-11-06.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\bin\Debug\net8.0\Ciklus-gyakrolas-11-06.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\bin\Debug\net8.0\Ciklus-gyakrolas-11-06.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\bin\Debug\net8.0\Ciklus-gyakrolas-11-06.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\Ciklus-gyakrolas-11-06.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\Ciklus-gyakrolas-11-06.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\Ciklus-gyakrolas-11-06.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\Ciklus-gyakrolas-11-06.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\Ciklus-gyakrolas-11-06.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\Ciklus-gyakrolas-11-06.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\refint\Ciklus-gyakrolas-11-06.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\Ciklus-gyakrolas-11-06.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\Ciklus-gyakrolas-11-06.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Ciklus-gyakrolas-11-06\obj\Debug\net8.0\ref\Ciklus-gyakrolas-11-06.dll
