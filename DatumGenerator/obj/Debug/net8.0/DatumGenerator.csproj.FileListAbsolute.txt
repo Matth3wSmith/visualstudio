@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\bin\Debug\net8.0\DatumGenerator.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\bin\Debug\net8.0\DatumGenerator.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\bin\Debug\net8.0\DatumGenerator.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\bin\Debug\net8.0\DatumGenerator.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\bin\Debug\net8.0\DatumGenerator.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\DatumGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\DatumGenerator.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\DatumGenerator.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\DatumGenerator.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\DatumGenerator.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\DatumGenerator.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\refint\DatumGenerator.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\DatumGenerator.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\DatumGenerator.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\DatumGenerator\obj\Debug\net8.0\ref\DatumGenerator.dll

@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\SzamSorozat-11-13.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\SzamSorozat-11-13.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\SzamSorozat-11-13.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\SzamSorozat-11-13.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\SzamSorozat-11-13.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\bin\Debug\net8.0\SzamSorozat-11-13.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\bin\Debug\net8.0\SzamSorozat-11-13.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\bin\Debug\net8.0\SzamSorozat-11-13.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\bin\Debug\net8.0\SzamSorozat-11-13.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\bin\Debug\net8.0\SzamSorozat-11-13.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\SzamSorozat-11-13.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\refint\SzamSorozat-11-13.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\SzamSorozat-11-13.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\SzamSorozat-11-13.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\SzamSorozat-11-13\obj\Debug\net8.0\ref\SzamSorozat-11-13.dll
