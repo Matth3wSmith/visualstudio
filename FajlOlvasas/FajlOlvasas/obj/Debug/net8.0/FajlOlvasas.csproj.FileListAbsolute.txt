@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\bin\Debug\net8.0\FajlOlvasas.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\bin\Debug\net8.0\FajlOlvasas.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\bin\Debug\net8.0\FajlOlvasas.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\bin\Debug\net8.0\FajlOlvasas.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\bin\Debug\net8.0\FajlOlvasas.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\FajlOlvasas.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\FajlOlvasas.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\FajlOlvasas.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\FajlOlvasas.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\FajlOlvasas.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\FajlOlvasas.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\refint\FajlOlvasas.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\FajlOlvasas.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\FajlOlvasas.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\FajlOlvasas\FajlOlvasas\obj\Debug\net8.0\ref\FajlOlvasas.dll
