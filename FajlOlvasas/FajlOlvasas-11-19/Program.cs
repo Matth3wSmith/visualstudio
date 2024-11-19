@@ -61,6 +61,19 @@ namespace FajlOlvasas_11_19
             olvas.Close();
         }
         //Hf: Kétféle képpen még kiíratni
+        static void KepernyoreIr3()
+        {
+            StreamReader olvas = new StreamReader("tablazat.csv");
+            Console.WriteLine("A táblázat tartalma:");
+            string sor = "";
+            while (!olvas.EndOfStream)
+            {
+                sor = olvas.ReadLine();
+                Console.WriteLine(sor);
+            }
+
+            olvas.Close();
+        }
     }
 
 }
