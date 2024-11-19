@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FajlOlvasas-11-19/1.0.0": {
+        "runtime": {
+          "FajlOlvasas-11-19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FajlOlvasas-11-19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

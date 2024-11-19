@@ -24,21 +24,21 @@
             Console.WriteLine("Add meg a táblázat sorainak és oszlopainak számát!");
             int sor = Convert.ToInt32(Console.ReadLine());
             int oszlop = Convert.ToInt32(Console.ReadLine());
-            int[] sorokHossza = new int[sor];
+            //int[] sorokHossza = new int[sor];
             int[,] szamok = new int[sor, oszlop];
             ir.Write("+");
             for (int k = 0; k< oszlop; k++)
             {
                 ir.Write("-");
             }
-            ir.Write("+\n");
+            ir.Write("+\n");*/
             for (int i = 0; i < sor; i++)
             {
-                sorokHossza[i] = oszlop-1;
+                //sorokHossza[i] = oszlop-1;
                 for (int j = 0; j < oszlop; j++)
                 {
                     szamok[i, j] = random.Next(10, 200);
-                    sorokHossza[i] += Convert.ToString(szamok[i, j]).Length;
+                    //sorokHossza[i] += Convert.ToString(szamok[i, j]).Length;
                     Console.WriteLine(szamok[i, j]);
                     ir.Write(Convert.ToString(szamok[i, j]));
                     if (j % oszlop != 9)
