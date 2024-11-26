@@ -1,4 +1,7 @@
-﻿namespace cbradio
+﻿using System.Globalization;
+using System.Reflection.Metadata.Ecma335;
+
+namespace cbradio
 {
     internal class Program
     {
@@ -49,7 +52,7 @@
 
             //5. feladat
             Console.Write("5. feladat: Kérek egy nevet: ");
-            string sofor = Convert.ToString(Console.ReadLine());
+            string sofor = Console.ReadLine();
             int soforHivasa = 0;
             if (!nevek.Contains(sofor))
             {
@@ -81,6 +84,29 @@
             ir.Close();
 
             //8. feladat
+            string becenev= nevek[0];
+            for (int i = 0; i < nevek.Length; i++)
+            {
+                if (!becenev.Contains(nevek[i]))
+                {
+                    becenev += ","+nevek[i];
+                }
+            }
+            string[] becenevek = becenev.Split(",");
+            Console.WriteLine($"8. feladat: Sofőrök száma: {becenevek.Length} fő");
+
+            //9. feladat
+            int[] maxAdasok = new int[becenevek.Length];
+            for (int i = 0; i < nevek.Length; i++)
+            {
+                for (int j = 0; j < becenevek[i].Length; j++)
+                {
+                    if (nevek[i] == becenevek[j])
+                    {
+                        maxAdasok[j] += adasok[i];
+                    }
+                }
+            }
 
             Console.ReadKey();
         }
