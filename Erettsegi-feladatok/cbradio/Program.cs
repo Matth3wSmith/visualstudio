@@ -24,7 +24,6 @@ namespace cbradio
                 adasok[i] = int.Parse(vag[2]);
                 nevek[i] = vag[3];
 
-                Console.WriteLine(nevek[i]);
             }
 
             //3. feladat
@@ -41,6 +40,14 @@ namespace cbradio
                     break;
                 }
             }
+            //Másik megoldás
+            adas4DB=false;
+            for (int i = 0; i < adasok.Length && !adas4DB; i++)
+            {
+                //Ha egyszer igaz lesz akkor igaz marad mindvégig
+                adas4DB |= adasok[i]==4;
+            }
+
             if (adas4DB)
             {
                 Console.WriteLine("Volt négy adást indító sofőr.");
@@ -97,18 +104,32 @@ namespace cbradio
 
             //9. feladat
             int[] maxAdasok = new int[becenevek.Length];
-            for (int i = 0; i < nevek.Length; i++)
+
+            for (int i = 0; i < becenevek.Length; i++)
             {
-                for (int j = 0; j < becenevek[i].Length; j++)
+                maxAdasok[i] = 0;
+                for (int j = 0; j < nevek.Length; j++)
                 {
-                    if (nevek[i] == becenevek[j])
+                    if (nevek[j] == becenevek[i])
                     {
-                        maxAdasok[j] += adasok[i];
+                        maxAdasok[i] += adasok[j];
                     }
                 }
             }
+            int legtobbAdas=0;
+            string legtobbAdasNev="";
 
-            Console.ReadKey();
+            for (int i = 0; i < maxAdasok.Length; i++)
+            {
+                if (legtobbAdas < maxAdasok[i])
+                {
+                    legtobbAdas = maxAdasok[i];
+                    legtobbAdasNev = becenevek[i];
+                }
+            }
+            Console.WriteLine("9. feladat: Legtöbb adást indító sofőr");
+            Console.WriteLine($"\tNév: {legtobbAdasNev}");
+            Console.WriteLine($"\tAdások száma: {legtobbAdas} alkalom");
         }
 
         //6. feladat
