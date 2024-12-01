@@ -1,0 +1,15 @@
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\bin\Debug\net8.0\eUtazas.exe
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\bin\Debug\net8.0\eUtazas.deps.json
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\bin\Debug\net8.0\eUtazas.runtimeconfig.json
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\bin\Debug\net8.0\eUtazas.dll
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\bin\Debug\net8.0\eUtazas.pdb
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\eUtazas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\eUtazas.AssemblyInfoInputs.cache
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\eUtazas.AssemblyInfo.cs
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\eUtazas.csproj.CoreCompileInputs.cache
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\eUtazas.sourcelink.json
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\eUtazas.dll
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\refint\eUtazas.dll
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\eUtazas.pdb
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\eUtazas.genruntimeconfig.cache
+G:\Suli\Programozási alapok\visualstudio\Erettsegi-feladatok\eUtazas\obj\Debug\net8.0\ref\eUtazas.dll
