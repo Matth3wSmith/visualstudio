@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\bin\Debug\net8.0\List-12-02.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\bin\Debug\net8.0\List-12-02.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\bin\Debug\net8.0\List-12-02.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\bin\Debug\net8.0\List-12-02.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\bin\Debug\net8.0\List-12-02.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\List-12-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\List-12-02.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\List-12-02.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\List-12-02.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\List-12-02.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\List-12-02.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\refint\List-12-02.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\List-12-02.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\List-12-02.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\List-12-02\obj\Debug\net8.0\ref\List-12-02.dll

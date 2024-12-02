@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\dolgozat-11-28-Bcsoport.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\dolgozat-11-28-Bcsoport.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\dolgozat-11-28-Bcsoport.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\dolgozat-11-28-Bcsoport.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\dolgozat-11-28-Bcsoport.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\bin\Debug\net8.0\dolgozat-11-28-Bcsoport.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\bin\Debug\net8.0\dolgozat-11-28-Bcsoport.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\bin\Debug\net8.0\dolgozat-11-28-Bcsoport.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\bin\Debug\net8.0\dolgozat-11-28-Bcsoport.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\bin\Debug\net8.0\dolgozat-11-28-Bcsoport.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\dolgozat-11-28-Bcsoport.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\refint\dolgozat-11-28-Bcsoport.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\dolgozat-11-28-Bcsoport.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\dolgozat-11-28-Bcsoport.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\dolgozat-11-28-Bcsoport\obj\Debug\net8.0\ref\dolgozat-11-28-Bcsoport.dll
