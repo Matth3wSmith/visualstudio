@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\bin\Debug\net8.0\Dictionary-12-03.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\bin\Debug\net8.0\Dictionary-12-03.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\bin\Debug\net8.0\Dictionary-12-03.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\bin\Debug\net8.0\Dictionary-12-03.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\bin\Debug\net8.0\Dictionary-12-03.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\Dictionary-12-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\Dictionary-12-03.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\Dictionary-12-03.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\Dictionary-12-03.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\Dictionary-12-03.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\Dictionary-12-03.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\refint\Dictionary-12-03.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\Dictionary-12-03.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\Dictionary-12-03.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Gyakrolas\Dictionary-12-03\obj\Debug\net8.0\ref\Dictionary-12-03.dll
