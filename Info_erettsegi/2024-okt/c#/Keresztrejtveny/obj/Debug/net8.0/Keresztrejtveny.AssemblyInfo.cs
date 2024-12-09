@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Keresztrejtveny")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+785c0dc860e4e5a2dc2487995dc1e088e5cf37b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+033ba45294d39fb686b5c875477c607ee2e28f19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Keresztrejtveny")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Keresztrejtveny")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

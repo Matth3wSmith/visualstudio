@@ -66,19 +66,68 @@ namespace Keresztrejtveny
             }
         }
         //7. feladat
-        public void Fuggoleges()
+        public int Fuggoleges()
         {
             int maxFugg = 0;
+            for (int i = 0; i < Racs.GetLength(1); i++)
+            {
+                int tempFugg = 0;
+                for (int k = 0; k < Racs.GetLength(0); k++)
+                {
+                    if (Racs[k, i] == '-')
+                    {
+                        tempFugg++;
+                    }
+                    else if (Racs[k, i] == '#' && tempFugg > maxFugg)
+                    {
+                        maxFugg = tempFugg;
+                        tempFugg = 0;
+                    }
+                }
+                if (tempFugg > maxFugg)
+                {
+                    maxFugg = tempFugg;
+                    tempFugg = 0;
+                }
+            }
+            return maxFugg;
+        }
+        //8. feladat
+        public Dictionary<int,int> Vizszint()
+        {
+            Dictionary<int, int> vizszint = new Dictionary<int, int>();
+            for (int i = 2; i < oszlopokDb; i++)
+            {
+                vizszint.Add(i, 0);
+            }
+
             for (int i = 0; i < Racs.GetLength(0); i++)
             {
+                int aktSzoHossz = 0;
                 for (int k = 0; k < Racs.GetLength(1); k++)
                 {
                     if (Racs[i, k] == '-')
                     {
-
+                        aktSzoHossz++;
                     }
+                    else if (Racs[i, k] == '#')
+                    {
+                        if (vizszint.ContainsKey(aktSzoHossz))
+                        {
+                            vizszint[aktSzoHossz]++;
+                        }
+                        aktSzoHossz = 0;
+                        
+                    }  
                 }
+                if (vizszint.ContainsKey(aktSzoHossz))
+                {
+                    vizszint[aktSzoHossz]++;
+                }
+                aktSzoHossz = 0;
+
             }
+            return vizszint;
         }
         public KeresztrejtvenyRacs(string forras)
         {
