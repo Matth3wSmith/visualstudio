@@ -13,3 +13,6 @@ G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejt
 G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.pdb
 G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.genruntimeconfig.cache
 G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\ref\Keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\refint\Keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.pdb

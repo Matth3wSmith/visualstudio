@@ -28,6 +28,8 @@ namespace Keresztrejtveny
                     Console.WriteLine($"{par.Key} betűs: {par.Value} darab");
                 }
             }
+            //9. feladat
+            racs.Sorszamozas();
 
         }
     }

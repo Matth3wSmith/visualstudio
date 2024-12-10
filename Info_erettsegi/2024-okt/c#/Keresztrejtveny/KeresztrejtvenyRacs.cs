@@ -15,6 +15,7 @@ namespace Keresztrejtveny
         private static int[,] Sorszamok;
         private static int oszlopokDb;
         private static int sorokDb;
+
         public int OszlopokDb
         {
             get { return oszlopokDb; }
@@ -31,7 +32,6 @@ namespace Keresztrejtveny
             {
                 Adatsorok.Add(ir.ReadLine().Trim());
             }
-
         }
         private static void FeltoltRacs()
         {
@@ -128,6 +128,35 @@ namespace Keresztrejtveny
 
             }
             return vizszint;
+        }
+
+        //9. feladat
+        public void Sorszamozas()
+        {
+            int szamlalo = 01;
+            bool vizszintEleje = true;
+
+            for (int i = 0; i < Racs.GetLength(0); i++)
+            {
+                for (int k = 0; k < Racs.GetLength(1); k++)
+                {
+                    if (Racs[i, k] == '-')
+                    {
+                        //Folytatódik-e alatta a szó vagy jobbra
+                        if (Racs[i+1, k] == '-' || (Racs[i, k+1] == '-' && vizszintEleje))
+                        {
+                            Sorszamok[i, k] = szamlalo;
+                            szamlalo++;
+                        }
+                        else if (Racs[i, k + 1] == '#')
+                        {
+                            szamlalo = 01;
+                        }
+                        Console.WriteLine(Racs[i,k]);
+
+                    }
+                }
+            }
         }
         public KeresztrejtvenyRacs(string forras)
         {
