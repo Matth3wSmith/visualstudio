@@ -143,19 +143,45 @@ namespace Keresztrejtveny
                     if (Racs[i, k] == '-')
                     {
                         //Folytatódik-e alatta a szó vagy jobbra
-                        if (Racs[i+1, k] == '-' || (Racs[i, k+1] == '-' && vizszintEleje))
-                        {
-                            Sorszamok[i, k] = szamlalo;
-                            szamlalo++;
+                        if((Racs.GetLength(0) > i + 1 && Racs.GetLength(1) > k + 1)) { 
+                            if (Racs[i+1, k] == '-' || (Racs[i, k+1] == '-' && vizszintEleje))
+                            {
+                                Sorszamok[i, k] = szamlalo;
+                                szamlalo++;
+                            }
+                            else if (Racs[i, k + 1] == '#')
+                            {
+                                szamlalo = 01;
+                            }
                         }
-                        else if (Racs[i, k + 1] == '#')
-                        {
-                            szamlalo = 01;
-                        }
-                        Console.WriteLine(Racs[i,k]);
 
                     }
                 }
+            }
+        }
+        public void SorszamKiir()
+        {
+            for (int i = 0; i < Sorszamok.GetLength(0); i++)
+            {
+                for (int k = 0; k < Sorszamok.GetLength(1); k++)
+                {
+                    if (Sorszamok[i, k] != 0)
+                    {
+                        Console.Write(Convert.ToString(Sorszamok[i,k]).PadLeft(2,'0'));
+                    }
+                    else
+                    {
+                        if (Racs[i, k] == '-')
+                        {
+                            Console.Write("[]");
+                        }
+                        else
+                        {
+                            Console.Write("##");
+                        }
+                    }
+                }
+                Console.WriteLine();
             }
         }
         public KeresztrejtvenyRacs(string forras)

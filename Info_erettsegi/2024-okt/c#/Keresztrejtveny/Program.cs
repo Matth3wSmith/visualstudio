@@ -30,6 +30,7 @@ namespace Keresztrejtveny
             }
             //9. feladat
             racs.Sorszamozas();
+            racs.SorszamKiir();
 
         }
     }
