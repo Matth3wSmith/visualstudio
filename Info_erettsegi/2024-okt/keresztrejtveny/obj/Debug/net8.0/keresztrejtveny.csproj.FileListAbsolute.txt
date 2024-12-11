@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\bin\Debug\net8.0\keresztrejtveny.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\bin\Debug\net8.0\keresztrejtveny.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\bin\Debug\net8.0\keresztrejtveny.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\bin\Debug\net8.0\keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\bin\Debug\net8.0\keresztrejtveny.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\keresztrejtveny.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\keresztrejtveny.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\keresztrejtveny.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\keresztrejtveny.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\keresztrejtveny.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\refint\keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\keresztrejtveny.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\keresztrejtveny.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\keresztrejtveny\obj\Debug\net8.0\ref\keresztrejtveny.dll
