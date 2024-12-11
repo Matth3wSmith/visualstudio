@@ -1,0 +1,32 @@
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.exe
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.deps.json
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.runtimeconfig.json
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.dll
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.pdb
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.GeneratedMSBuildEditorConfig.editorconfig
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.AssemblyInfoInputs.cache
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.AssemblyInfo.cs
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.csproj.CoreCompileInputs.cache
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.sourcelink.json
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.dll
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\refint\Keresztrejtveny.dll
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.pdb
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.genruntimeconfig.cache
+G:\Suli\Programozási alapok\visualstudio\info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\ref\Keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\refint\Keresztrejtveny.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.pdb
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.exe
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.deps.json
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.runtimeconfig.json
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.dll
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\bin\Debug\net8.0\Keresztrejtveny.pdb
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.AssemblyInfoInputs.cache
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.AssemblyInfo.cs
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.dll
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\refint\Keresztrejtveny.dll
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.pdb
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\Keresztrejtveny.genruntimeconfig.cache
+C:\Users\tanulo\Desktop\visualstudio-main\visualstudio-main\Info_erettsegi\2024-okt\c#\Keresztrejtveny\obj\Debug\net8.0\ref\Keresztrejtveny.dll
