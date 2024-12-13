@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\bin\Debug\net8.0\titanic.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\bin\Debug\net8.0\titanic.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\bin\Debug\net8.0\titanic.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\bin\Debug\net8.0\titanic.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\bin\Debug\net8.0\titanic.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\titanic.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\titanic.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\titanic.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\titanic.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\titanic.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\titanic.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\refint\titanic.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\titanic.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\titanic.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\titanic\titanic\obj\Debug\net8.0\ref\titanic.dll
