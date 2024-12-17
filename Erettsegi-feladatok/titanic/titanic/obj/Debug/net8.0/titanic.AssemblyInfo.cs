@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("titanic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82b8a4b34fe2515dbffaccf892f82634998256b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31a5b43b7f9d088ac9272897ca465ab61669ffec")]
 [assembly: System.Reflection.AssemblyProductAttribute("titanic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("titanic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

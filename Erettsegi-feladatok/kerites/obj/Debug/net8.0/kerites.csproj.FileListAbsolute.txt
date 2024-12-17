@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\bin\Debug\net8.0\kerites.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\bin\Debug\net8.0\kerites.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\bin\Debug\net8.0\kerites.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\bin\Debug\net8.0\kerites.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\bin\Debug\net8.0\kerites.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\kerites.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\kerites.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\kerites.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\kerites.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\kerites.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\kerites.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\refint\kerites.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\kerites.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\kerites.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\kerites\obj\Debug\net8.0\ref\kerites.dll
