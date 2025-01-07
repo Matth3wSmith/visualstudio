@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cbradio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31a5b43b7f9d088ac9272897ca465ab61669ffec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecd6e4efac06281e0eb742aa906b0ef3c9ded939")]
 [assembly: System.Reflection.AssemblyProductAttribute("cbradio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cbradio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
