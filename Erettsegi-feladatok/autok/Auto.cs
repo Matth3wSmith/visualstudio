@@ -14,6 +14,7 @@ namespace autok
         public int perc;
         public int sebesseg;
         public string ido;
+        public int percben;
         public Auto(string sor)
         {
             string[] adatok = sor.Split();
@@ -22,6 +23,7 @@ namespace autok
             this.perc = int.Parse(adatok[2]);
             this.sebesseg = int.Parse(adatok[3]);
             this.ido = $"{this.ora}:{this.perc}";
+            this.percben = this.ora * 60 + perc;
             
         }
 

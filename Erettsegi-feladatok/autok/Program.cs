@@ -74,12 +74,34 @@ namespace autok
             }
 
             //6. feladat
-            Console.WriteLine("6. feladat");
+            Console.WriteLine("\n6. feladat");
             Console.Write("Kérem, adja meg a rendszámot: ");
             string rendszam = Console.ReadLine();
+            double ut = 0.0;
+            int elozoIdo = 0;
+            bool elso = true;
             for (int i = 0; i < autok.Count; i++)
             {
+                if (autok[i].rendszam == rendszam)
+                {
+                        
+                    //Console.WriteLine("elozo {0} mostani {1} eltelt {2} sebesseg {3}", elozoIdo, autok[i].percben, (autok[i].percben - elozoIdo), autok[i].sebesseg);
+                    if (elso)
+                    {
+                        Console.WriteLine($"{autok[i].ido} {ut} km");
+                        elozoIdo = autok[i].percben;
+                        elso = false;
+                    }
+                    else
+                    {
+                        ut = ut + (autok[i].percben - elozoIdo) / 60.0 * autok[i].sebesseg;
+                        ut=Math.Round(ut,1);
+                        elozoIdo = autok[i].percben;
+                        Console.WriteLine($"{autok[i].ido} {ut} km");
+                    }
 
+
+                }
             }
 
 
