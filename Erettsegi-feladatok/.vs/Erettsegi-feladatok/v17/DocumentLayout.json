@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29AF0295-08F0-46E6-AB83-FFEB8E03DD46}|autok\\autok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\autok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AF0295-08F0-46E6-AB83-FFEB8E03DD46}|autok\\autok.csproj|solutionrelative:autok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AF0295-08F0-46E6-AB83-FFEB8E03DD46}|autok\\autok.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\autok\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AF0295-08F0-46E6-AB83-FFEB8E03DD46}|autok\\autok.csproj|solutionrelative:autok\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{657C8D4C-1145-476F-9B09-A4FB275C472B}|robot\\robot.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\robot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657C8D4C-1145-476F-9B09-A4FB275C472B}|robot\\robot.csproj|solutionrelative:robot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Auto.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\autok\\Auto.cs",
-              "RelativeDocumentMoniker": "autok\\Auto.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\autok\\Auto.cs",
-              "RelativeToolTip": "autok\\Auto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T10:22:19.022Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\autok\\Program.cs",
-              "RelativeDocumentMoniker": "autok\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\autok\\Program.cs",
-              "RelativeToolTip": "autok\\Program.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAgwFwAAAAlAAAA",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\robot\\Program.cs",
+              "RelativeDocumentMoniker": "robot\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\robot\\Program.cs",
+              "RelativeToolTip": "robot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T10:18:18.093Z",
+              "WhenOpened": "2025-01-13T12:21:54.471Z",
               "EditorCaption": ""
             }
           ]

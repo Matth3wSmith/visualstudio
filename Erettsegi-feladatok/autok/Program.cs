@@ -80,6 +80,7 @@ namespace autok
             double ut = 0.0;
             int elozoIdo = 0;
             bool elso = true;
+            int elozoSebesseg = 0;
             for (int i = 0; i < autok.Count; i++)
             {
                 if (autok[i].rendszam == rendszam)
@@ -90,20 +91,41 @@ namespace autok
                     {
                         Console.WriteLine($"{autok[i].ido} {ut} km");
                         elozoIdo = autok[i].percben;
+                        elozoSebesseg = autok[i].sebesseg;
                         elso = false;
                     }
                     else
                     {
-                        ut = ut + (autok[i].percben - elozoIdo) / 60.0 * autok[i].sebesseg;
-                        ut=Math.Round(ut,1);
+                        ut += ((autok[i].percben - elozoIdo) / 60.0 * elozoSebesseg);
+                        elozoSebesseg = autok[i].sebesseg;
                         elozoIdo = autok[i].percben;
-                        Console.WriteLine($"{autok[i].ido} {ut} km");
+                        Console.WriteLine($"{autok[i].ido} {Math.Round(ut,1)} km");
                     }
 
 
                 }
             }
 
+            //7. feladat
+            Dictionary<string,List<string>> rendszamSzerint = new Dictionary<string,List<string>>();
+
+            for (int i = 0; i < autok.Count; i++)
+            {
+                if (rendszamSzerint.ContainsKey(autok[i].rendszam))
+                {
+                    rendszamSzerint[autok[i].rendszam].Add($"{autok[i].ora} {autok[i].perc}");
+                }
+                else
+                {
+                    rendszamSzerint.Add(autok[i].rendszam, new List<string>{$"{autok[i].ora} {autok[i].perc}"});
+                }
+            }
+            StreamWriter ir = new StreamWriter("ido.txt");
+            foreach (KeyValuePair<string, List<string>> entry in rendszamSzerint)
+            {
+                ir.WriteLine($"{entry.Key} {entry.Value[0]} {entry.Value[entry.Value.Count-1]}");
+            }
+            ir.Close();
 
         }
     }
