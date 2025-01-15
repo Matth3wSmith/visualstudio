@@ -33,7 +33,12 @@
             //4. feladat
             StreamWriter ir = new StreamWriter("ivsz.txt");
 
-            var lepesek = robotok.Select(x => (x.nev,x.kod.Length));
+            for (int i = 0; i < robotok.Count; i++)
+            {
+                if (!robotok[i].hibasKarakter){
+                    ir.Write($"{robotok[i].nev} {robotok[i].lepesek}\n");
+                }
+            }
 
 
             ir.Close(); 

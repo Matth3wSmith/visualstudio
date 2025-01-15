@@ -11,6 +11,7 @@ namespace robot
         public string nev;
         public string kod;
         public bool hibasKarakter;
+        public int lepesek;
         public Robot(string sor)
         {
             string[] vag = sor.Split(" ");
@@ -23,6 +24,7 @@ namespace robot
             kodcsere = kodcsere.Replace("J", "");
             kodcsere = kodcsere.Replace("H", "");
             hibasKarakter = kodcsere != "";
+            lepesek=kod.Length;
 
 
 
