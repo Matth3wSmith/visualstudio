@@ -36,12 +36,26 @@
             for (int i = 0; i < robotok.Count; i++)
             {
                 if (!robotok[i].hibasKarakter){
-                    ir.Write($"{robotok[i].nev} {robotok[i].lepesek}\n");
+                    ir.Write($"{robotok[i].nev} {robotok[i].iranyvaltas}\n");
                 }
             }
 
 
-            ir.Close(); 
+            ir.Close();
+
+            //5. feladat
+            string nyertes = "";
+            double tav=0;
+            for (int i = 0; i < robotok.Count; i++)
+            {
+                double tempTav = robotok[i].tavolsag();
+                if (robotok[i].tavolsag() > tav)
+                {
+                    tav = tempTav;
+                    nyertes = robotok[i].nev;
+                }
+            }
+            Console.WriteLine("5. Feladat: Legtávolabb jutó robot vezérlését készítette: "+nyertes);
         }
     }
 }
