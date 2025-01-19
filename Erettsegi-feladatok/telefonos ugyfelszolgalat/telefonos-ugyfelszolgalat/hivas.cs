@@ -6,35 +6,27 @@ using System.Threading.Tasks;
 
 namespace telefonos_ugyfelszolgalat
 {
-    internal class hivas
+    internal class Hivas
     {
         public int[] kezdIdo = new int[3];
         public int[] vegIdo = new int[3];
 
-        public hivas(string sor) {
+        public Hivas(string sor) {
             //sor értéke: "7 57 36 7 59 59"
 
             string[] vag = sor.Split(" ");
 
-            for (int i = 0; i < vag.Length; i++)
-            {
-                if (i < 3)
-                {
-                    kezdIdo[i] = Convert.ToInt32(vag[i]);
-                }
-                else
-                {
-                    vegIdo[3 - i] = Convert.ToInt32(vag[i]);
-                }
-            }
+            kezdIdo[0]=int.Parse(vag[0]);
+            kezdIdo[1] = int.Parse(vag[1]);
+            kezdIdo[2] = int.Parse(vag[2]);
+            vegIdo[0] = int.Parse(vag[3]);
+            vegIdo[1] = int.Parse(vag[4]);
+            vegIdo[2] = int.Parse(vag[5]);
         }
-        public int idoSecKezd()
+        //1. feladat
+        public int mpbe(int o, int p, int mp)
         {
-            return kezdIdo[0] * 60 * 60 + kezdIdo[1] * 60 + kezdIdo[2];
-        }
-        public int idoSecVeg()
-        {
-            return vegIdo[0] * 60 * 60 + vegIdo[1] * 60 + vegIdo[2];
+            return o * 60 * 60 + p * 60 + mp;
         }
     }
 }

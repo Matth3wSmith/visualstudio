@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("telefonos-ugyfelszolgalat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a392620a1b722470fc8bea8b8f4afbf538c738be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31a5b43b7f9d088ac9272897ca465ab61669ffec")]
 [assembly: System.Reflection.AssemblyProductAttribute("telefonos-ugyfelszolgalat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("telefonos-ugyfelszolgalat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

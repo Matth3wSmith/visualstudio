@@ -65,8 +65,32 @@ namespace titanic
             }
 
             //6. feladat
+            Console.WriteLine("6. feladat:");
+            for (int i = 0; i < utasok.Length; i++)
+            {
+                if (utasok[i].arany > 60)
+                {
+                    Console.WriteLine("\t"+utasok[i].kategoria);
+                }
+            }
 
 
+            //7. feladat
+            int maxTulelo = 0;
+            string maxKategoria = "";
+            for (int i = 0; i < utasok.Length; i++)
+            {
+                if (utasok[i].tulelo > maxTulelo)
+                {
+                    maxKategoria = utasok[i].kategoria;
+                    maxTulelo=utasok[i].tulelo;
+                }
+            }
+            Console.WriteLine("7. feladat: "+ maxKategoria);
+
+
+
+            Console.ReadKey();
         }
     }
 }
