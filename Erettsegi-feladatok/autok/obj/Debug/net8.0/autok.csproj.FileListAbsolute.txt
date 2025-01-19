@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\bin\Debug\net8.0\autok.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\bin\Debug\net8.0\autok.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\bin\Debug\net8.0\autok.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\bin\Debug\net8.0\autok.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\bin\Debug\net8.0\autok.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\autok.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\autok.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\autok.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\autok.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\autok.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\autok.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\refint\autok.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\autok.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\autok.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\autok\obj\Debug\net8.0\ref\autok.dll
