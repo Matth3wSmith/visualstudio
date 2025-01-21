@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("robot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50ced1585b50d94bcb3a7810136952d28f352ee6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fd31e906ddc800ab236c6870d3435d3567a7886")]
 [assembly: System.Reflection.AssemblyProductAttribute("robot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("robot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -56,6 +56,8 @@
                 }
             }
             Console.WriteLine("5. Feladat: Legtávolabb jutó robot vezérlését készítette: "+nyertes);
+
+
         }
     }
 }
