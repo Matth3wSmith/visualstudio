@@ -22,7 +22,7 @@ namespace titanic
             kategoria= vag[0];
             tulelo = int.Parse(vag[1]);
             eltunt = int.Parse(vag[2]);
-            arany = eltunt/tulelo;
+            arany = eltunt/tulelo*100;
             
         }
 

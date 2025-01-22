@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kovacsm22\\.nuget\\packages\\": {}
+    "C:\\Users\\Kovács Máté\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\munkakönyvtár\\Kovács Máté\\visualstudio\\Erettsegi-feladatok\\robot\\robot.csproj",
+      "projectUniqueName": "G:\\Suli\\Programozási alapok\\c#\\Erettsegi-feladatok\\robot\\robot.csproj",
       "projectName": "robot",
-      "projectPath": "D:\\munkakönyvtár\\Kovács Máté\\visualstudio\\Erettsegi-feladatok\\robot\\robot.csproj",
-      "packagesPath": "C:\\Users\\kovacsm22\\.nuget\\packages\\",
-      "outputPath": "D:\\munkakönyvtár\\Kovács Máté\\visualstudio\\Erettsegi-feladatok\\robot\\obj\\",
+      "projectPath": "G:\\Suli\\Programozási alapok\\c#\\Erettsegi-feladatok\\robot\\robot.csproj",
+      "packagesPath": "C:\\Users\\Kovács Máté\\.nuget\\packages\\",
+      "outputPath": "G:\\Suli\\Programozási alapok\\c#\\Erettsegi-feladatok\\robot\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kovacsm22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kovács Máté\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

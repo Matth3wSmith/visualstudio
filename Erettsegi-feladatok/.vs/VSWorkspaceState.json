@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\eUtazas"
+    "\\eUtazas",
+    "\\telefonos ugyfelszolgalat",
+    "\\telefonos ugyfelszolgalat\\telefonos-ugyfelszolgalat",
+    "\\titanic\\titanic",
+    "\\titanic\\titanic\\bin",
+    "\\titanic\\titanic\\bin\\Debug",
+    "\\titanic\\titanic\\bin\\Debug\\net8.0"
   ],
-  "SelectedNode": "\\eUtazas\\Program.cs",
+  "SelectedNode": "\\telefonos ugyfelszolgalat\\telefonos-ugyfelszolgalat\\telefonos-ugyfelszolgalat.sln",
   "PreviewInSolutionExplorer": false
 }
