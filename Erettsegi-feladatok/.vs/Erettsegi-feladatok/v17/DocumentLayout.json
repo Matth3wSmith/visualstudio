@@ -1,41 +1,14 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{45846D67-14F9-4777-897D-EC1A851BD638}|titanic\\titanic\\titanic.csproj|g:\\suli\\programoz\u00E1si alapok\\c#\\erettsegi-feladatok\\titanic\\titanic\\utas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45846D67-14F9-4777-897D-EC1A851BD638}|titanic\\titanic\\titanic.csproj|solutionrelative:titanic\\titanic\\utas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\telefonos ugyfelszolgalat\\telefonos-ugyfelszolgalat\\telefonos-ugyfelszolgalat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:telefonos ugyfelszolgalat\\telefonos-ugyfelszolgalat\\telefonos-ugyfelszolgalat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\bin\\Debug\\net8.0\\titanic.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:titanic\\titanic\\bin\\Debug\\net8.0\\titanic.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45846D67-14F9-4777-897D-EC1A851BD638}|titanic\\titanic\\titanic.csproj|g:\\suli\\programoz\u00E1si alapok\\c#\\erettsegi-feladatok\\titanic\\titanic\\titanic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{45846D67-14F9-4777-897D-EC1A851BD638}|titanic\\titanic\\titanic.csproj|solutionrelative:titanic\\titanic\\titanic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45846D67-14F9-4777-897D-EC1A851BD638}|titanic\\titanic\\titanic.csproj|g:\\suli\\programoz\u00E1si alapok\\c#\\erettsegi-feladatok\\titanic\\titanic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45846D67-14F9-4777-897D-EC1A851BD638}|titanic\\titanic\\titanic.csproj|solutionrelative:titanic\\titanic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{657C8D4C-1145-476F-9B09-A4FB275C472B}|robot\\robot.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\robot\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657C8D4C-1145-476F-9B09-A4FB275C472B}|robot\\robot.csproj|solutionrelative:robot\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{60562D99-D889-4ADE-AFF6-310EC6D19D1D}|kraterek\\kraterek.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\kraterek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60562D99-D889-4ADE-AFF6-310EC6D19D1D}|kraterek\\kraterek.csproj|solutionrelative:kraterek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{657C8D4C-1145-476F-9B09-A4FB275C472B}|robot\\robot.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\robot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{657C8D4C-1145-476F-9B09-A4FB275C472B}|robot\\robot.csproj|solutionrelative:robot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
->>>>>>> 1fd31e906ddc800ab236c6870d3435d3567a7886
->>>>>>> 95f58b8583429826d6bab908edc834c8cdc9bc1f
+      "AbsoluteMoniker": "D:0:0:{60562D99-D889-4ADE-AFF6-310EC6D19D1D}|kraterek\\kraterek.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\kraterek\\krater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60562D99-D889-4ADE-AFF6-310EC6D19D1D}|kraterek\\kraterek.csproj|solutionrelative:kraterek\\krater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,106 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 0,
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "titanic.txt",
-              "DocumentMoniker": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\bin\\Debug\\net8.0\\titanic.txt",
-              "RelativeDocumentMoniker": "titanic\\titanic\\bin\\Debug\\net8.0\\titanic.txt",
-              "ToolTip": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\bin\\Debug\\net8.0\\titanic.txt",
-              "RelativeToolTip": "titanic\\titanic\\bin\\Debug\\net8.0\\titanic.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-14T09:52:56.617Z",
-              "IsPinned": true
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "telefonos-ugyfelszolgalat.csproj",
-              "DocumentMoniker": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\telefonos ugyfelszolgalat\\telefonos-ugyfelszolgalat\\telefonos-ugyfelszolgalat.csproj",
-              "RelativeDocumentMoniker": "telefonos ugyfelszolgalat\\telefonos-ugyfelszolgalat\\telefonos-ugyfelszolgalat.csproj",
-              "ToolTip": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\telefonos ugyfelszolgalat\\telefonos-ugyfelszolgalat\\telefonos-ugyfelszolgalat.csproj",
-              "RelativeToolTip": "telefonos ugyfelszolgalat\\telefonos-ugyfelszolgalat\\telefonos-ugyfelszolgalat.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T10:02:32.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Utas.cs",
-              "DocumentMoniker": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\Utas.cs",
-              "RelativeDocumentMoniker": "titanic\\titanic\\Utas.cs",
-              "ToolTip": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\Utas.cs",
-              "RelativeToolTip": "titanic\\titanic\\Utas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Title": "Krater.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\kraterek\\Krater.cs",
+              "RelativeDocumentMoniker": "kraterek\\Krater.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\kraterek\\Krater.cs",
+              "RelativeToolTip": "kraterek\\Krater.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T09:47:58.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "titanic.csproj",
-              "DocumentMoniker": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\titanic.csproj",
-              "RelativeDocumentMoniker": "titanic\\titanic\\titanic.csproj",
-              "ToolTip": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\titanic.csproj",
-              "RelativeToolTip": "titanic\\titanic\\titanic.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T09:48:03.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\Program.cs",
-              "RelativeDocumentMoniker": "titanic\\titanic\\Program.cs",
-              "ToolTip": "G:\\Suli\\Programoz\u00E1si alapok\\c#\\Erettsegi-feladatok\\titanic\\titanic\\Program.cs",
-              "RelativeToolTip": "titanic\\titanic\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T09:48:02.111Z"
-=======
-          "SelectedChildIndex": 1,
->>>>>>> 95f58b8583429826d6bab908edc834c8cdc9bc1f
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\robot\\Robot.cs",
-              "RelativeDocumentMoniker": "robot\\Robot.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\robot\\Robot.cs",
-              "RelativeToolTip": "robot\\Robot.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAwwFcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:14:55.185Z",
+              "WhenOpened": "2025-01-22T12:51:47.233Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\robot\\Program.cs",
-              "RelativeDocumentMoniker": "robot\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\robot\\Program.cs",
-              "RelativeToolTip": "robot\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\kraterek\\Program.cs",
+              "RelativeDocumentMoniker": "kraterek\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\kraterek\\Program.cs",
+              "RelativeToolTip": "kraterek\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:21:54.471Z",
+              "WhenOpened": "2025-01-22T12:50:59.972Z",
               "EditorCaption": ""
->>>>>>> 1fd31e906ddc800ab236c6870d3435d3567a7886
             }
           ]
         }

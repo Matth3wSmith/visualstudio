@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kerites")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe6e12bdf365789c1e2f059bd5860c3e35f842d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+656397ad5fc1e4f3808cd09e42072eed9caf96f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("kerites")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kerites")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
