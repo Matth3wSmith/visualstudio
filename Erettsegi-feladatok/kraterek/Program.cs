@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using System.Net.NetworkInformation;
+using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography;
 using System.Threading.Channels;
 using static System.Net.Mime.MediaTypeNames;
@@ -51,11 +52,11 @@ namespace kraterek
             Console.WriteLine($"A legnagyobb kráter neve és sugara: {maxKrater.nev} {maxKrater.r}");
 
             //6. feladat
-            Console.WriteLine("Kérem egy kráter nevét: ");
+            Console.Write("Kérem egy kráter nevét: ");
 
             string kraterNev= Console.ReadLine();
             List<string> nincsKozos = new List<string>();
-            Krater vizgalando;
+            Krater vizgalando = kraterek[0];
             for (int i = 0; i < kraterek.Count; i++)
             {
                 if (kraterek[i].nev == kraterNev)
@@ -63,17 +64,54 @@ namespace kraterek
                     vizgalando=kraterek[i];
                 }
             }
-            Console.WriteLine(vizgalando.nev);
 
-            /*Console.Write("Nincs közös része: ");
-
-            /*for (int i = 0; i < kraterek.Count; i++)
+            Console.Write("Nincs közös része: ");
+            for (int i = 0; i < kraterek.Count; i++)
             {
                 if (kraterek[i].nev != kraterNev && tavolsag(vizgalando.x, kraterek[i].x, vizgalando.y,kraterek[i].y) > (kraterek[i].r + vizgalando.r))
                 {
-                    Console.Write(kraterek[i].nev+", ");
+                    nincsKozos.Add(kraterek[i].nev);
                 }
-            }*/
+            }
+
+            for (int i = 0; i < nincsKozos.Count; i++)
+            {
+                if (i == nincsKozos.Count - 1)
+                {
+                    Console.Write(nincsKozos[i]+".");
+                }
+                else
+                {
+                    Console.Write(nincsKozos[i] + ", ");
+                }
+            }
+            Console.WriteLine();
+
+            //7. feladat
+            for (int i = 0; i < kraterek.Count; i++)
+            {
+                Krater nagy = kraterek[i];
+                for (int k = 0; k < kraterek.Count; k++){
+                    Krater kicsi = kraterek[k];
+                    if (nagy != kicsi && tavolsag(nagy.x,kicsi.x,nagy.y,kicsi.y) < nagy.r-kicsi.r)
+                    {
+                        Console.WriteLine($"A(z) {nagy.nev} kráter tartalmazza a(z) {kicsi.nev} krátert.");
+                    }
+
+                }
+            }
+
+            //8. feladat
+            StreamWriter ir = new StreamWriter("terulet.txt");
+
+            for (int i = 0; i < kraterek.Count; i++)
+            {
+                ir.Write($"{Math.Round(kraterek[i].r * kraterek[i].r * Math.PI,2)}\t{kraterek[i].nev}\n");
+            }
+
+            ir.Close();
+
+
 
         }
         //5. feladat
