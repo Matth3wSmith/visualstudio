@@ -1,0 +1,15 @@
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\bin\Debug\net8.0\telefonos-ugyfelszolgalat.exe
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\bin\Debug\net8.0\telefonos-ugyfelszolgalat.deps.json
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\bin\Debug\net8.0\telefonos-ugyfelszolgalat.runtimeconfig.json
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\bin\Debug\net8.0\telefonos-ugyfelszolgalat.dll
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\bin\Debug\net8.0\telefonos-ugyfelszolgalat.pdb
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\telefonos-ugyfelszolgalat.GeneratedMSBuildEditorConfig.editorconfig
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\telefonos-ugyfelszolgalat.AssemblyInfoInputs.cache
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\telefonos-ugyfelszolgalat.AssemblyInfo.cs
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\telefonos-ugyfelszolgalat.csproj.CoreCompileInputs.cache
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\telefonos-ugyfelszolgalat.sourcelink.json
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\telefonos-ugyfelszolgalat.dll
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\refint\telefonos-ugyfelszolgalat.dll
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\telefonos-ugyfelszolgalat.pdb
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\telefonos-ugyfelszolgalat.genruntimeconfig.cache
+G:\Suli\Programozási alapok\c#\Erettsegi-feladatok\telefonos ugyfelszolgalat\telefonos-ugyfelszolgalat\obj\Debug\net8.0\ref\telefonos-ugyfelszolgalat.dll
