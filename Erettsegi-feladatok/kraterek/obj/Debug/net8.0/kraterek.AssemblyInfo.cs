@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kraterek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bd7d90b10aff3cc403b2c53b62ba1c2f693be95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9105cfcd535ff7d29e2c217127326d2112f1c85f")]
 [assembly: System.Reflection.AssemblyProductAttribute("kraterek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kraterek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using System.Net.NetworkInformation;
+using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography;
 using System.Threading.Channels;
 using static System.Net.Mime.MediaTypeNames;
@@ -51,29 +52,39 @@ namespace kraterek
             Console.WriteLine($"A legnagyobb kráter neve és sugara: {maxKrater.nev} {maxKrater.r}");
 
             //6. feladat
-            Console.WriteLine("Kérem egy kráter nevét: ");
+            Console.Write("Kérem egy kráter nevét: ");
 
             string kraterNev= Console.ReadLine();
             List<string> nincsKozos = new List<string>();
-            Krater vizgalando;
+            Krater vizgalando = kraterek[0];
             for (int i = 0; i < kraterek.Count; i++)
             {
                 if (kraterek[i].nev == kraterNev)
                 {
-                    vizgalando=kraterek[i];
+                    vizgalando = kraterek[i];
                 }
             }
-            Console.WriteLine(vizgalando.nev);
 
-            /*Console.Write("Nincs közös része: ");
+            Console.Write("Nincs közös része: ");
 
-            /*for (int i = 0; i < kraterek.Count; i++)
+            for (int i = 0; i < kraterek.Count; i++)
             {
                 if (kraterek[i].nev != kraterNev && tavolsag(vizgalando.x, kraterek[i].x, vizgalando.y,kraterek[i].y) > (kraterek[i].r + vizgalando.r))
                 {
-                    Console.Write(kraterek[i].nev+", ");
+                    nincsKozos.Add(kraterek[i].nev);
                 }
-            }*/
+            }
+            for (int i = 0; i < nincsKozos.Count; i++)
+            {
+                if (i == nincsKozos.Count - 1)
+                {
+                    Console.Write(nincsKozos[i]+".");
+                }
+                else
+                {
+                    Console.Write(nincsKozos[i]+", ");
+                }
+            }
 
         }
         //5. feladat
