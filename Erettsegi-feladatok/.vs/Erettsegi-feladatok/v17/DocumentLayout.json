@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFBCAA1F-31D2-4DE3-8A0B-45538E7B2EA0}|park\\park.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\park\\viragok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFBCAA1F-31D2-4DE3-8A0B-45538E7B2EA0}|park\\park.csproj|solutionrelative:park\\viragok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CFBCAA1F-31D2-4DE3-8A0B-45538E7B2EA0}|park\\park.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\park\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFBCAA1F-31D2-4DE3-8A0B-45538E7B2EA0}|park\\park.csproj|solutionrelative:park\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBCAA1F-31D2-4DE3-8A0B-45538E7B2EA0}|park\\park.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\erettsegi-feladatok\\park\\viragok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBCAA1F-31D2-4DE3-8A0B-45538E7B2EA0}|park\\park.csproj|solutionrelative:park\\viragok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "viragok.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\park\\viragok.cs",
               "RelativeDocumentMoniker": "park\\viragok.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\park\\viragok.cs",
               "RelativeToolTip": "park\\viragok.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T07:36:01.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\park\\Program.cs",
               "RelativeDocumentMoniker": "park\\Program.cs",
               "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Erettsegi-feladatok\\park\\Program.cs",
               "RelativeToolTip": "park\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwFIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T07:35:44.443Z",
               "EditorCaption": ""
