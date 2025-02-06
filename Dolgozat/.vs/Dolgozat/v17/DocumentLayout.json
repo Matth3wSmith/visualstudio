@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52273C0F-4AB2-4D7A-AD65-17613E7C2692}|dolgozat-11-28-Bcsoport\\dolgozat-11-28-Bcsoport.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\dolgozat\\dolgozat-11-28-bcsoport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52273C0F-4AB2-4D7A-AD65-17613E7C2692}|dolgozat-11-28-Bcsoport\\dolgozat-11-28-Bcsoport.csproj|solutionrelative:dolgozat-11-28-bcsoport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9B3D374-939D-4235-9F9E-8CB050121E7B}|utemez\\utemez.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\dolgozat\\utemez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B3D374-939D-4235-9F9E-8CB050121E7B}|utemez\\utemez.csproj|solutionrelative:utemez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{749BBF21-CE00-46FA-B991-D0D207F4861E}|dolgozat-11-28\\dolgozat-11-28.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\dolgozat\\dolgozat-11-28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{749BBF21-CE00-46FA-B991-D0D207F4861E}|dolgozat-11-28\\dolgozat-11-28.csproj|solutionrelative:dolgozat-11-28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9B3D374-939D-4235-9F9E-8CB050121E7B}|utemez\\utemez.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\dolgozat\\utemez\\tabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B3D374-939D-4235-9F9E-8CB050121E7B}|utemez\\utemez.csproj|solutionrelative:utemez\\tabor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\dolgozat-11-28-Bcsoport\\Program.cs",
-              "RelativeDocumentMoniker": "dolgozat-11-28-Bcsoport\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\dolgozat-11-28-Bcsoport\\Program.cs",
-              "RelativeToolTip": "dolgozat-11-28-Bcsoport\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "DocumentIndex": 1,
+              "Title": "Tabor.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\utemez\\Tabor.cs",
+              "RelativeDocumentMoniker": "utemez\\Tabor.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\utemez\\Tabor.cs",
+              "RelativeToolTip": "utemez\\Tabor.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:47:11.259Z",
+              "WhenOpened": "2025-02-06T11:46:48.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\dolgozat-11-28\\Program.cs",
-              "RelativeDocumentMoniker": "dolgozat-11-28\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\dolgozat-11-28\\Program.cs",
-              "RelativeToolTip": "dolgozat-11-28\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCYAAAARAAAA",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\utemez\\Program.cs",
+              "RelativeDocumentMoniker": "utemez\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\utemez\\Program.cs",
+              "RelativeToolTip": "utemez\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwHIAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:41:32.176Z",
+              "WhenOpened": "2025-02-06T11:46:30.753Z",
               "EditorCaption": ""
             }
           ]

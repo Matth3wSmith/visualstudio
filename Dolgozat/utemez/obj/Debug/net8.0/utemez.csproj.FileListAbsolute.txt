@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\bin\Debug\net8.0\utemez.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\bin\Debug\net8.0\utemez.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\bin\Debug\net8.0\utemez.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\bin\Debug\net8.0\utemez.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\bin\Debug\net8.0\utemez.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\utemez.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\utemez.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\utemez.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\utemez.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\utemez.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\utemez.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\refint\utemez.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\utemez.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\utemez.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\utemez\obj\Debug\net8.0\ref\utemez.dll

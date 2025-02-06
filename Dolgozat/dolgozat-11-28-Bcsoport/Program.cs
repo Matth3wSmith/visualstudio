@@ -13,7 +13,7 @@
             }
             ir.Close();
 
-            szavak = File.ReadAllLines("kodszavak_A.txt");.
+            szavak = File.ReadAllLines("kodszavak_A.txt");
             string[] kodok = File.ReadAllLines("kod_A.txt");
             string megoldas = "";
 

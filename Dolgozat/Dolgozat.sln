@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dolgozat-11-28", "dolgozat-11-28\dolgozat-11-28.csproj", "{749BBF21-CE00-46FA-B991-D0D207F4861E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dolgozat-11-28-Bcsoport", "dolgozat-11-28-Bcsoport\dolgozat-11-28-Bcsoport.csproj", "{52273C0F-4AB2-4D7A-AD65-17613E7C2692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dolgozat-11-28-Bcsoport", "dolgozat-11-28-Bcsoport\dolgozat-11-28-Bcsoport.csproj", "{52273C0F-4AB2-4D7A-AD65-17613E7C2692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utemez", "utemez\utemez.csproj", "{A9B3D374-939D-4235-9F9E-8CB050121E7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{52273C0F-4AB2-4D7A-AD65-17613E7C2692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52273C0F-4AB2-4D7A-AD65-17613E7C2692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52273C0F-4AB2-4D7A-AD65-17613E7C2692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B3D374-939D-4235-9F9E-8CB050121E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B3D374-939D-4235-9F9E-8CB050121E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B3D374-939D-4235-9F9E-8CB050121E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B3D374-939D-4235-9F9E-8CB050121E7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

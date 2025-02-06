@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\bin\Debug\net8.0\park.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\bin\Debug\net8.0\park.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\bin\Debug\net8.0\park.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\bin\Debug\net8.0\park.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\bin\Debug\net8.0\park.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\park.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\park.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\park.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\park.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\park.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\park.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\refint\park.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\park.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\park.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\park\obj\Debug\net8.0\ref\park.dll
