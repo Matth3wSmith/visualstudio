@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\bin\Debug\net8.0\reklam.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\bin\Debug\net8.0\reklam.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\bin\Debug\net8.0\reklam.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\bin\Debug\net8.0\reklam.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\bin\Debug\net8.0\reklam.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\refint\reklam.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\ref\reklam.dll
