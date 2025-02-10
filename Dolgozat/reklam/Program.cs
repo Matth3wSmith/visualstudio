@@ -40,6 +40,7 @@
                 Console.WriteLine(nincsRendeles+" nap nem volt a reklámban nem érintett városból rendelés");
             }
 
+            //5. feladat
 
         }
     }

@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\bin\Debug\net8.0\halak.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\bin\Debug\net8.0\halak.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\bin\Debug\net8.0\halak.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\bin\Debug\net8.0\halak.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\bin\Debug\net8.0\halak.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\halak.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\halak.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\halak.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\halak.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\halak.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\halak.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\refint\halak.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\halak.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\halak.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\halak\obj\Debug\net8.0\ref\halak.dll
