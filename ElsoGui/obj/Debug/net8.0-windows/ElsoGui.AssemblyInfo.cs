@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElsoGui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64e8854ae0d1e2d8bfb23e401da74c6d7673575")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1e400d7e4894a9cb42505c7a940f2f4049fa54a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElsoGui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElsoGui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

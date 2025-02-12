@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ElsoGui"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Dominik gay" Height="401" Width="1164">
     <Grid>
-
+        <Button Content="Button" HorizontalAlignment="Left" Margin="247,193,0,0" VerticalAlignment="Top" Height="46" Width="226"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="459,64,0,0" VerticalAlignment="Top" Height="124" Width="260" Click="Button_Click"/>
     </Grid>
 </Window>
