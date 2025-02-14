@@ -8,6 +8,6 @@
         Title="Dominik gay" Height="401" Width="1164">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Margin="247,193,0,0" VerticalAlignment="Top" Height="46" Width="226"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="459,64,0,0" VerticalAlignment="Top" Height="124" Width="260" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="582,149,0,0" VerticalAlignment="Top" Height="124" Width="260" Click="Button_Click"/>
     </Grid>
 </Window>
