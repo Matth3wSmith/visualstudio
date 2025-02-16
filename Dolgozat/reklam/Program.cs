@@ -1,4 +1,6 @@
-﻿namespace reklam
+﻿using System.Collections.Generic;
+
+namespace reklam
 {
     internal class Program
     {
@@ -41,7 +43,64 @@
             }
 
             //5. feladat
+            Console.WriteLine("5. feladat");
+            IEnumerable<int> darabok = rendelesek.Select(rendeles => rendeles.darab);
+            int maxDarab = darabok.Max();
+            int maxNap = rendelesek.Where(rendeles => rendeles.darab==maxDarab).Select(rendeles => rendeles.nap).First();
 
+            Console.WriteLine("A legnagyobb darabszám: "+maxDarab+", a rendelés napja: "+maxNap);
+
+            //7. feladat
+            Console.WriteLine("7. feladat");
+            IEnumerable<string> varosok = rendelesek.Select(rendeles => rendeles.varos).Distinct();
+
+            IEnumerable<string> rendeles21 = varosok.Select(varos => varos+": "+(osszes(varos, 21, rendelesek)));
+            Console.WriteLine("A rendelt termékek darabszáma a 21. napon "+String.Join(" ",rendeles21));
+
+            //8. feladat
+            Dictionary<string, int[]> osszesites = new Dictionary<string, int[]>();
+            foreach (string varos in varosok)
+            {
+                osszesites.Add(varos, [0,0,0]);
+            }
+            for (int i = 0; i < rendelesek.Count(); i++)
+            {
+                if (rendelesek[i].nap >= 1 && rendelesek[i].nap <= 10)
+                {
+                    osszesites[rendelesek[i].varos][0]++;
+                }
+                else if (rendelesek[i].nap >= 11 && rendelesek[i].nap <= 20)
+                {
+                    osszesites[rendelesek[i].varos][1]++;
+
+                }
+                else if (rendelesek[i].nap >= 21 && rendelesek[i].nap <= 30)
+                {
+                    osszesites[rendelesek[i].varos][2]++;
+
+                }
+
+            }
+
+            StreamWriter ir = new StreamWriter("kampany.txt");
+            ir.WriteLine("Napok\t1..10\t11..20\t21..30");
+            Console.WriteLine("Napok\t1..10\t11..20\t21..30");
+            foreach (KeyValuePair<string, int[]> entry in osszesites)
+            {
+                string sor = entry.Key + "\t" + String.Join("\t", entry.Value);
+                ir.WriteLine(sor);
+                Console.WriteLine(sor);
+            }
+
+            ir.Close();
+        }
+
+        //6. feladat
+        static int osszes(string varos, int nap, List<Rendeles> rendelesek)
+        {
+            return rendelesek.Where(rendeles => rendeles.varos == varos && rendeles.nap == nap).Select(rendeles => rendeles.darab).Sum();
         }
     }
 }
+
+

@@ -13,3 +13,18 @@ D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\
 D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.pdb
 D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\reklam.genruntimeconfig.cache
 D:\munkakönyvtár\Kovács Máté\visualstudio\Dolgozat\reklam\obj\Debug\net8.0\ref\reklam.dll
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\bin\Debug\net8.0\reklam.exe
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\bin\Debug\net8.0\reklam.deps.json
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\bin\Debug\net8.0\reklam.runtimeconfig.json
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\bin\Debug\net8.0\reklam.dll
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\bin\Debug\net8.0\reklam.pdb
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\reklam.GeneratedMSBuildEditorConfig.editorconfig
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\reklam.AssemblyInfoInputs.cache
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\reklam.AssemblyInfo.cs
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\reklam.csproj.CoreCompileInputs.cache
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\reklam.sourcelink.json
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\reklam.dll
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\refint\reklam.dll
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\reklam.pdb
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\reklam.genruntimeconfig.cache
+G:\Suli\Programozasi-alapok\c#\Dolgozat\reklam\obj\Debug\net8.0\ref\reklam.dll
