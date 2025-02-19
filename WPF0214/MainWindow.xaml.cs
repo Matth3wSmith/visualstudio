@@ -19,11 +19,25 @@ namespace WPF0214
         public MainWindow()
         {
             InitializeComponent();
+
+            adatLista.ItemSource = adatok;
         }
+        private List<string> adatok = new List<string>();
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            nevDoboz.Text = "";
+
+            string nev = nevDoboz.Text;
+            nevDoboz.Text = jelszo.Text;
+            jelszo.Text = nev;
+
+            adatok.Add(nevDoboz.Text + ":" + jelszo.Text);
+
+        }
+
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
         }
     }
 }

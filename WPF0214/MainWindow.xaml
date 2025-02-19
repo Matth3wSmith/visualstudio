@@ -5,13 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF0214"
         mc:Ignorable="d"
-        Title="Belépés" Height="187" Width="243">
+        Title="Belépés" Height="206" Width="491">
     <Grid>
-        <Button Content="Belépés" HorizontalAlignment="Center" Margin="0,113,0,0" VerticalAlignment="Top" Height="29" Width="80" Click="Button_Click"/>
+        <Button Content="Belépés" HorizontalAlignment="Left" Margin="80,118,0,0" VerticalAlignment="Top" Height="29" Width="80" Click="Button_Click"/>
         <Label Content="Név:" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="nevDoboz" HorizontalAlignment="Left" Margin="80,23,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <Label Content="Jelszó:" HorizontalAlignment="Left" Margin="25,58,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Margin="80,62,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="jelszo" HorizontalAlignment="Left" Margin="80,62,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="adatLista" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="214,0,0,0" SelectionChanged="ListBox_SelectionChanged"/>
 
     </Grid>
 </Window>
