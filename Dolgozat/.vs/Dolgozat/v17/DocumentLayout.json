@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Suli\\Programozasi-alapok\\c#\\Dolgozat\\",
+  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DA7C840-57CA-4CD5-944A-93A264B0B19D}|reklam\\reklam.csproj|g:\\suli\\programozasi-alapok\\c#\\dolgozat\\reklam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA78F37F-BD0C-42E7-8AF8-72FAFF4B7F2D}|ropi-02-20\\ropi-02-20.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\dolgozat\\ropi-02-20\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AA78F37F-BD0C-42E7-8AF8-72FAFF4B7F2D}|ropi-02-20\\ropi-02-20.csproj|solutionrelative:ropi-02-20\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA78F37F-BD0C-42E7-8AF8-72FAFF4B7F2D}|ropi-02-20\\ropi-02-20.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\dolgozat\\ropi-02-20\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA78F37F-BD0C-42E7-8AF8-72FAFF4B7F2D}|ropi-02-20\\ropi-02-20.csproj|solutionrelative:ropi-02-20\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA7C840-57CA-4CD5-944A-93A264B0B19D}|reklam\\reklam.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\dolgozat\\reklam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DA7C840-57CA-4CD5-944A-93A264B0B19D}|reklam\\reklam.csproj|solutionrelative:reklam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA7C840-57CA-4CD5-944A-93A264B0B19D}|reklam\\reklam.csproj|g:\\suli\\programozasi-alapok\\c#\\dolgozat\\reklam\\rendeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DA7C840-57CA-4CD5-944A-93A264B0B19D}|reklam\\reklam.csproj|d:\\munkak\u00F6nyvt\u00E1r\\kov\u00E1cs m\u00E1t\u00E9\\visualstudio\\dolgozat\\reklam\\rendeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DA7C840-57CA-4CD5-944A-93A264B0B19D}|reklam\\reklam.csproj|solutionrelative:reklam\\rendeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Rendeles.cs",
-              "DocumentMoniker": "G:\\Suli\\Programozasi-alapok\\c#\\Dolgozat\\reklam\\Rendeles.cs",
-              "RelativeDocumentMoniker": "reklam\\Rendeles.cs",
-              "ToolTip": "G:\\Suli\\Programozasi-alapok\\c#\\Dolgozat\\reklam\\Rendeles.cs",
-              "RelativeToolTip": "reklam\\Rendeles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T07:20:02.714Z",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\ropi-02-20\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ropi-02-20\\MainWindow.xaml",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\ropi-02-20\\MainWindow.xaml",
+              "RelativeToolTip": "ropi-02-20\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T11:46:49.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\ropi-02-20\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ropi-02-20\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\ropi-02-20\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ropi-02-20\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:46:49.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rendeles.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\reklam\\Rendeles.cs",
+              "RelativeDocumentMoniker": "reklam\\Rendeles.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\reklam\\Rendeles.cs",
+              "RelativeToolTip": "reklam\\Rendeles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:20:02.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Suli\\Programozasi-alapok\\c#\\Dolgozat\\reklam\\Program.cs",
+              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\reklam\\Program.cs",
               "RelativeDocumentMoniker": "reklam\\Program.cs",
-              "ToolTip": "G:\\Suli\\Programozasi-alapok\\c#\\Dolgozat\\reklam\\Program.cs",
+              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\Kov\u00E1cs M\u00E1t\u00E9\\visualstudio\\Dolgozat\\reklam\\Program.cs",
               "RelativeToolTip": "reklam\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFoAAAAgAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T07:17:05.594Z",
               "EditorCaption": ""
