@@ -19,3 +19,5 @@ D:\munkakönyvtár\Kovács Máté\visualstudio\WPF0214\obj\Debug\net8.0-windows\
 D:\munkakönyvtár\Kovács Máté\visualstudio\WPF0214\obj\Debug\net8.0-windows\WPF0214.pdb
 D:\munkakönyvtár\Kovács Máté\visualstudio\WPF0214\obj\Debug\net8.0-windows\WPF0214.genruntimeconfig.cache
 D:\munkakönyvtár\Kovács Máté\visualstudio\WPF0214\obj\Debug\net8.0-windows\ref\WPF0214.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\WPF0214\obj\Debug\net8.0-windows\Kepeltunes\App.g.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\WPF0214\obj\Debug\net8.0-windows\Kepeltunes\MainWindow.g.cs
