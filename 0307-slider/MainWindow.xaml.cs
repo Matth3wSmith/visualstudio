@@ -20,6 +20,16 @@ namespace _0307_slider
         public MainWindow()
         {
             InitializeComponent();
+
+            List<string> list = new List<string>();
+            list.Add("Pá rizs!");
+            list.Add("Londonn-don-don-don-don!");
+            list.Add("AmstelDayum");
+            list.Add("Kappanhágó");
+
+
+            combobox.ItemsSource = list;
+
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)

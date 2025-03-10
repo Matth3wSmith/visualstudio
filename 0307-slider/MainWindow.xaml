@@ -7,9 +7,32 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Slider x:Name="sliders" IsSnapToTickEnabled="True" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Width="308" SmallChange="1" ValueChanged="sliders_ValueChanged"/>
-        <TextBox x:Name="szamErtek" HorizontalAlignment="Center" Margin="0,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="52" TextChanged="TextBox_TextChanged"/>
-        <TextBlock x:Name="hibaBox" HorizontalAlignment="Center" Margin="0,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+
+        <TabControl>
+            <TabItem Header="TabItem">
+                <Grid Background="Wheat">
+                    <Slider x:Name="sliders" IsSnapToTickEnabled="True" HorizontalAlignment="Left" Margin="168,200,0,0" VerticalAlignment="Top" Width="308" SmallChange="1" ValueChanged="sliders_ValueChanged" Grid.Column="1"/>
+                    <TextBox x:Name="szamErtek" HorizontalAlignment="Left" Margin="296,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="52" TextChanged="TextBox_TextChanged" Grid.Column="1"/>
+                    <TextBlock x:Name="hibaBox" HorizontalAlignment="Left" Margin="272,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100" Grid.Column="1"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="Aqua">
+                    <TextBlock HorizontalAlignment="Left" Margin="60,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="61" Height="16"><Run Text="Úti célok"/><Run Language="hu-hu" Text=":"/><LineBreak/><Run Language="hu-hu"/><LineBreak/><Run/></TextBlock>
+                    <ComboBox x:Name="combobox" HorizontalAlignment="Left" Margin="121,40,0,0" VerticalAlignment="Top" Width="120"/>
+
+                </Grid>
+            </TabItem>
+            <TabControl>
+                <TabItem Header="TabItem">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="TabItem">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+            </TabControl>
+        </TabControl>
 
     </Grid>
 </Window>
