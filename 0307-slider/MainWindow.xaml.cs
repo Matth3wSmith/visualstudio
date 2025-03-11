@@ -49,5 +49,11 @@ namespace _0307_slider
         {
             szamErtek.Text = sliders.Value.ToString();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string uticel = combobox.Text;
+            MessageBox.Show(uticel);
+        }
     }
 }

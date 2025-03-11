@@ -18,9 +18,15 @@
                 </Grid>
             </TabItem>
             <TabItem Header="TabItem">
-                <Grid Background="Aqua">
+                <Grid Background="Beige">
                     <TextBlock HorizontalAlignment="Left" Margin="60,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="61" Height="16"><Run Text="Úti célok"/><Run Language="hu-hu" Text=":"/><LineBreak/><Run Language="hu-hu"/><LineBreak/><Run/></TextBlock>
                     <ComboBox x:Name="combobox" HorizontalAlignment="Left" Margin="121,40,0,0" VerticalAlignment="Top" Width="120"/>
+                    <TextBlock x:Name="indulas" HorizontalAlignment="Left" Margin="60,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="24" Text="Indulás:"/>
+                    <DatePicker x:Name="indulasDate" HorizontalAlignment="Left" Margin="121,88,0,0" VerticalAlignment="Top"/>
+                    <DatePicker x:Name="erkezesDate" HorizontalAlignment="Left" Margin="121,130,0,0" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="erkezes" HorizontalAlignment="Left" Margin="59,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="24"><Run Text="Érkezés"/><Run Text=":"/></TextBlock>
+                    <Button x:Name="rogzit" Content="Rögzít" HorizontalAlignment="Left" Margin="108,175,0,0" VerticalAlignment="Top" Click="Button_Click" Height="38" Width="73"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="294,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Height="188" Width="452"/>
 
                 </Grid>
             </TabItem>
