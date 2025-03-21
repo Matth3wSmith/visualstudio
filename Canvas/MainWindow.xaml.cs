@@ -29,12 +29,55 @@ namespace Canvas
 
             timer.Interval = TimeSpan.FromSeconds(1);
             timer.Tick += korRajzol;
-            timer.Start();
-
+            //timer.Start();
             szamlap(0, 0, 100);
+            mutato(100, 100, 50, "kismutató", 0);
+            mutato(100, 100, 80, "nagymutató", 30);
+            mutato(100, 100, 95, "másodpercmutató", 60);
 
         }
         
+        void mutato(int x, int y, int hossz, string fajta, int szog)
+        {
+            Line vonal = new Line();
+
+            switch (fajta)
+            {
+                case "kismutató":
+                    vonal.Stroke = Brushes.Blue;
+                    vonal.StrokeThickness = 1;
+                    break;
+                case "nagymutató":
+                    vonal.Stroke = Brushes.Green;
+                    vonal.StrokeThickness = 1;
+                    break;
+                case "másodpercmutató":
+                    vonal.Stroke = Brushes.Black;
+                    vonal.StrokeThickness = 1;
+                    break;
+                default:
+                    vonal.Stroke = Brushes.Red;
+                    vonal.StrokeThickness = 1;
+                    break;
+
+            }
+
+            vonal.Stroke = Brushes.Black;
+
+            double dY = hossz * Math.Sin(szog / 180.0 * Math.PI);
+            double dX = hossz * Math.Cos(szog / 180.0 * Math.PI);
+
+            vonal.X1 = x ;
+            vonal.Y1 = y;
+
+            vonal.X2 = x + dX;
+            vonal.Y2 = y + dY;
+
+            canvas.Children.Add(vonal);
+
+    }
+
+
         void szamlap(int x, int y, int r)
         {
             Ellipse ellipse = new Ellipse();
@@ -55,22 +98,17 @@ namespace Canvas
                 Line vonal = new Line();
 
                 vonal.Stroke = Brushes.Black;
-                vonal.X1 = x + r;
-                vonal.Y1 = y + r;
 
-                double dY = r * Math.Sin(30*i / 180.0 * Math.PI);
-                double dX = r * Math.Cos((double)30*i / 180.0 * Math.PI);
-                /*
-                double dY1 = (r - 10) * Math.Sin(30 * i / 180.0 * Math.PI);
-                double dX1 = (r - 10) * Math.Cos((double)30 * i / 180.0 * Math.PI);
-                double dY2 = (r + 10) * Math.Sin(30 * i / 180.0 * Math.PI);
-                double dX2 = (r + 10) * Math.Cos((double)30 * i / 180.0 * Math.PI);*/
+                /*double dY = r * Math.Sin(30*i / 180.0 * Math.PI);
+                double dX = r * Math.Cos((double)30*i / 180.0 * Math.PI);*/
 
+                double kisR1 = 7 / 8.0 * r;
+                double kisR2 = 9 / 8.0 * r;
 
-                double dY1 = 7/8.0 * r * Math.Sin(30 * i / 180.0 * Math.PI);
-                double dX1 = 7/8.0 * r * Math.Cos((double)30 * i / 180.0 * Math.PI);
-                double dY2 = 9/8.0 * r * Math.Sin(30 * i / 180.0 * Math.PI);
-                double dX2 = 9/8.0 * r * Math.Cos((double)30 * i / 180.0 * Math.PI);
+                double dY1 = kisR1 * Math.Sin(30 * i / 180.0 * Math.PI);
+                double dX1 = kisR1 * Math.Cos((double)30 * i / 180.0 * Math.PI);
+                double dY2 = kisR2 * Math.Sin(30 * i / 180.0 * Math.PI);
+                double dX2 = kisR2 * Math.Cos((double)30 * i / 180.0 * Math.PI);
 
                 vonal.X1 = x + r + dX1;
                 vonal.Y1 = y + r + dY1;
@@ -86,8 +124,7 @@ namespace Canvas
         void korRajzol(object sender, EventArgs e)
         {
             canvas.Children.Clear();
-
-            kor(100, 100, 100, szogAllas*10);
+            //kor(100, 100, 100, szogAllas*10);
 
             szogAllas++;
             if (szogAllas == 36)
