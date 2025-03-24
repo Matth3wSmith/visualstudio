@@ -24,19 +24,38 @@ namespace Canvas
         }
 
         DispatcherTimer timer = new DispatcherTimer();
+        DispatcherTimer oraTimer = new DispatcherTimer();
         private void canvas_Initialized(object sender, EventArgs e)
         {
 
-            timer.Interval = TimeSpan.FromSeconds(1);
-            timer.Tick += korRajzol;
+            /*timer.Interval = TimeSpan.FromSeconds(1);
+            timer.Tick += korRajzol;*/
             //timer.Start();
-            szamlap(0, 0, 100);
-            mutato(100, 100, 50, "kismutató", 0);
-            mutato(100, 100, 80, "nagymutató", 30);
-            mutato(100, 100, 95, "másodpercmutató", 60);
 
+            oraTimer.Interval = TimeSpan.FromSeconds(1);
+            oraTimer.Tick += oraIdozit;
+            oraTimer.Start();
         }
-        
+        void oraIdozit(object sender, EventArgs e)
+        {
+            oraRajzol(0, 0, 200);
+        }
+        void oraRajzol(int x, int y, int meret)
+        {
+            int x1 = x + meret / 2;
+            int y1 = y + meret / 2;
+
+            szamlap(x, y, meret/2);
+
+            int hour = DateTime.Now.Hour;
+            int min = DateTime.Now.Minute;
+            int sec = DateTime.Now.Second;
+
+            mutato(x1, y1, (int)(meret/2*0.5), "kismutató", (360 / 12*hour) - 90);
+            mutato(x1, y1, (int)(meret / 2 * 0.8), "nagymutató", (360 / 60 * min) - 90);
+            mutato(x1, y1, (int)(meret / 2 * 0.95), "másodpercmutató", (360 / 60 * sec) - 90);
+        }
+
         void mutato(int x, int y, int hossz, string fajta, int szog)
         {
             Line vonal = new Line();
