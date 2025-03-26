@@ -1,0 +1,94 @@
+﻿using System.Runtime.CompilerServices;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Converters;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace szinusz_rajzolo
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+        //Szinusz függvény rajzolás lépései:
+        //  - Koordináta rendszer rajzolása
+        //  - Körív rajzolása
+        //  - Magasság (szinusz érték)
+        //  - Nagy kör 
+        //  - Szinusz függvény képe
+        //  - Fekete pont (aktuális szinusz hely x tengelyen)
+        //  - Belső szög
+        //  - Fekete sugár
+        //  - Kék vonal az x tengelyen
+
+        private void canvas_Loaded(object sender, RoutedEventArgs e)
+        {
+            origoX = (int)canvas.ActualWidth/2;
+            origoY = (int)canvas.ActualHeight/2;
+            korRajz(0, 0, 100);
+            koordRendszer();
+        }
+
+        int origoX = 0;
+        int origoY = 0;
+        int r = 100;
+
+
+        void koordRendszer()
+        {
+            Line xTengely = new Line();
+            Line yTengely = new Line();
+
+            xTengely.Stroke = Brushes.Black;
+            yTengely.Stroke = Brushes.Black;
+
+            xTengely.X1 = 0;
+            xTengely.Y1 = origoY;
+            xTengely.X2 = canvas.ActualWidth;
+            xTengely.Y2 = origoY;
+
+            yTengely.X1 = origoX;
+            yTengely.Y1 = 0;
+            yTengely.X2 = origoX;
+            yTengely.Y2 = canvas.ActualHeight;
+
+
+
+            canvas.Children.Add(xTengely);
+            canvas.Children.Add(yTengely);
+        }
+
+        void korRajz(int x, int y, int r)
+        {
+            Ellipse kor = new Ellipse();
+
+
+            kor.Stroke = Brushes.Black;
+            kor.Fill = Brushes.LightGreen;
+            kor.HorizontalAlignment = HorizontalAlignment.Center;
+            kor.VerticalAlignment = VerticalAlignment.Center;
+            kor.Width = r;
+            kor.Height = r;
+
+
+            canvas.Children.Add(kor);
+        }
+
+
+
+
+
+    }
+}
