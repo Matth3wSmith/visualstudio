@@ -37,7 +37,7 @@ namespace szinusz_rajzolo
         {
             origoX = (int)canvas.ActualWidth/2;
             origoY = (int)canvas.ActualHeight/2;
-            korRajz(0, 0, 100);
+            //korRajz(0, 0, 100);
             koordRendszer();
         }
 
@@ -68,6 +68,31 @@ namespace szinusz_rajzolo
 
             canvas.Children.Add(xTengely);
             canvas.Children.Add(yTengely);
+
+            for (int i = 0; i < canvas.ActualWidth; i += 45)
+            {
+                Line vonas = new Line();
+                vonas.Stroke= Brushes.Black;
+                vonas.X1 = i;
+                vonas.Y1 = origoY - 5;
+                vonas.X2 = i;
+                vonas.Y2 = origoY + 5;  
+
+                canvas.Children.Add (vonas);
+            }
+
+            for (double i = -1; i <= 1; i += 0.5)
+            {
+                Line vonas = new Line();
+                vonas.Stroke = Brushes.Black;
+                vonas.X1 = origoX-5;
+                vonas.Y1 = origoY + r * i;
+                vonas.X2 = origoX+5;
+                vonas.Y2 = origoY + r * i;
+
+                canvas.Children.Add(vonas);
+            }
+
         }
 
         void korRajz(int x, int y, int r)
