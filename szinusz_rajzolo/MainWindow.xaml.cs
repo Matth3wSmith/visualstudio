@@ -6,6 +6,7 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.Windows.Media.Animation;
 using System.Windows.Media.Converters;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
@@ -37,8 +38,10 @@ namespace szinusz_rajzolo
         {
             origoX = (int)canvas.ActualWidth/2;
             origoY = (int)canvas.ActualHeight/2;
+
             //korRajz(0, 0, 100);
             koordRendszer();
+            feketeKor(0);
         }
 
         int origoX = 0;
@@ -73,14 +76,25 @@ namespace szinusz_rajzolo
             {
                 Line vonas = new Line();
                 vonas.Stroke= Brushes.Black;
-                vonas.X1 = i;
+                vonas.X1 = origoX + i;
                 vonas.Y1 = origoY - 5;
-                vonas.X2 = i;
+                vonas.X2 = origoX + i;
                 vonas.Y2 = origoY + 5;  
 
                 canvas.Children.Add (vonas);
             }
 
+            for (int i = 0; i < origoX; i += 45)
+            {
+                Line vonas = new Line();
+                vonas.Stroke = Brushes.Black;
+                vonas.X1 = origoX - i;
+                vonas.Y1 = origoY - 5;
+                vonas.X2 = origoX - i;
+                vonas.Y2 = origoY + 5;
+
+                canvas.Children.Add(vonas);
+            }
             for (double i = -1; i <= 1; i += 0.5)
             {
                 Line vonas = new Line();
@@ -100,7 +114,6 @@ namespace szinusz_rajzolo
             Ellipse kor = new Ellipse();
 
 
-            kor.Stroke = Brushes.Black;
             kor.Fill = Brushes.LightGreen;
             kor.HorizontalAlignment = HorizontalAlignment.Center;
             kor.VerticalAlignment = VerticalAlignment.Center;
@@ -110,7 +123,21 @@ namespace szinusz_rajzolo
 
             canvas.Children.Add(kor);
         }
+        
+        void feketeKor(int x)
+        {
+            Ellipse fekete = new Ellipse()
+            {
+                Width = r / 10,
+                Height = r / 10,
+                Fill = Brushes.Black,
+                Stroke = Brushes.Black,
 
+            };
+
+            fekete.Margin = new Thickness(origoX - fekete.Width / 2 + x, origoY - fekete.Height / 2, 0, 0);
+            canvas.Children.Add(fekete);
+        }
 
 
 
