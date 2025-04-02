@@ -41,7 +41,10 @@ namespace szinusz_rajzolo
 
             //korRajz(0, 0, 100);
             koordRendszer();
-            feketeKor(0);
+            feketeKor(10);
+            pirosvonal(10);
+            sugar(10);
+
         }
 
         int origoX = 0;
@@ -132,11 +135,45 @@ namespace szinusz_rajzolo
                 Height = r / 10,
                 Fill = Brushes.Black,
                 Stroke = Brushes.Black,
+                Margin = new Thickness(origoX - (r / 10 / 2) + x, origoY - (r / 10 / 2), 0, 0),
 
             };
 
-            fekete.Margin = new Thickness(origoX - fekete.Width / 2 + x, origoY - fekete.Height / 2, 0, 0);
             canvas.Children.Add(fekete);
+        }
+
+        void pirosvonal(int x)
+        {
+            double magassag = Math.Sin(x / 180.0 * Math.PI) * r;
+            Line v = new Line()
+            {
+                Stroke = Brushes.Red,
+                StrokeThickness = 3,
+                X1 = origoX + x,
+                Y1 = origoY,
+                X2 = origoX + x,
+                Y2 = origoY - magassag,
+            };
+
+            canvas.Children.Add(v);
+        }
+
+        void sugar(int x)
+        {
+            double dX = Math.Sin(x / 180.0 * Math.PI) * r;
+            double magassag = Math.Sin(x / 180.0 * Math.PI) * r;
+
+            Line v = new Line()
+            {
+                Stroke = Brushes.Black,
+                StrokeThickness = 3,
+                X1 = origoX + x,
+                Y1 = origoY - magassag,
+                X2 = origoX + x - dX,
+                Y2 = origoY,
+            };
+
+            canvas.Children.Add(v);
         }
 
 

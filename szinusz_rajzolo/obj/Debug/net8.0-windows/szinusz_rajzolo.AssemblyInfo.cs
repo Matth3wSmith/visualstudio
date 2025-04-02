@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("szinusz_rajzolo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cbc76e7f757d74f9ab2459cb1d31f8560f742d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82db74055edb93f772832b2cff1b936c35235a73")]
 [assembly: System.Reflection.AssemblyProductAttribute("szinusz_rajzolo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("szinusz_rajzolo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
