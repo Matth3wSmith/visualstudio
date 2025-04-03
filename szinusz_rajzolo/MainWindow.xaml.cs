@@ -44,6 +44,8 @@ namespace szinusz_rajzolo
             feketeKor(10);
             pirosvonal(10);
             sugar(10);
+            kekKor(10);
+            szinuszGorbe(10);
 
         }
 
@@ -165,7 +167,7 @@ namespace szinusz_rajzolo
 
             Line v = new Line()
             {
-                Stroke = Brushes.Black,
+                Stroke = Brushes.DarkBlue,
                 StrokeThickness = 3,
                 X1 = origoX + x,
                 Y1 = origoY - magassag,
@@ -176,7 +178,40 @@ namespace szinusz_rajzolo
             canvas.Children.Add(v);
         }
 
+        void kekKor(int x)
+        {
+            double dX = Math.Sin(x / 180.0 * Math.PI) * r;
 
+            Ellipse kor = new Ellipse()
+            {
+                Stroke = Brushes.Black,
+                StrokeThickness = 1,
+                Width = 2 * r,
+                Height = 2 * r,
+                Margin = new Thickness(origoX + x - dX - r, origoY - r, 0, 0),
+
+
+            };
+
+            canvas.Children.Add(kor);
+
+        }
+        PointCollection points = new PointCollection();
+        void szinuszGorbe(int x)
+        {
+            double magassag = Math.Sin(x / 180.0 * Math.PI) * r;
+
+            points.Add(new Point(x + origoX, origoY - magassag));
+            Polyline vonal = new Polyline()
+            {
+                Stroke = Brushes.Red,
+                StrokeThickness = 3,
+                FillRule = FillRule.EvenOdd,
+                Points = points
+            };
+
+            canvas.Children.Add(vonal);
+        }
 
 
     }
