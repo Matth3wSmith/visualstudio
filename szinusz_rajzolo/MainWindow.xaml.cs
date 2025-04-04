@@ -46,6 +46,7 @@ namespace szinusz_rajzolo
             sugar(10);
             kekKor(10);
             szinuszGorbe(10);
+            korIvKicsi(10);
 
         }
 
@@ -211,6 +212,33 @@ namespace szinusz_rajzolo
             };
 
             canvas.Children.Add(vonal);
+        }
+
+        void korIvKicsi(int x)
+        {
+            var path = new Path
+            {
+                Stroke = Brushes.DarkBlue,
+                StrokeThickness = 2,
+                Data = new PathGeometry(new[]
+                {
+                    new PathFigure(
+                        new Point(100, 100), // 1. Kezdőpont
+                        new PathSegment[]
+                        {
+                            new ArcSegment
+                            {
+                                Point = new Point(100, 100), // 2. Végpont
+                                Size = new Size(r, r), // 3. Sugár mérete
+                                RotationAngle = 0, // 4. Forgatás szöge
+                                IsLargeArc = false, // 5. Kisebb vagy nagyobb ív?
+                                SweepDirection = SweepDirection.Clockwise // 6. Irány
+                            }
+                        },
+                        false) // 7. A figura zárt vagy nyitott?
+                })
+            };
+            canvas.Children.Add(path);
         }
 
 
