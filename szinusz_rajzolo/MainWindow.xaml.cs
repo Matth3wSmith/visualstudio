@@ -40,19 +40,27 @@ namespace szinusz_rajzolo
             origoY = (int)canvas.ActualHeight/2;
 
             //korRajz(0, 0, 100);
+            int x = 220;
+            magassag = Math.Sin(x / 180.0 * Math.PI) * r; 
+            dX = Math.Cos(x / 180.0 * Math.PI) * r;
+
+
             koordRendszer();
-            feketeKor(10);
-            pirosvonal(10);
-            sugar(10);
-            kekKor(10);
-            szinuszGorbe(10);
-            korIvKicsi(10);
+            feketeKor(x);
+            pirosvonal(x);
+            sugar(x);
+            kekKor(x);
+            szinuszGorbe(x);
+            korIvKicsi(x);
+            korIvNagy(x);
 
         }
 
         int origoX = 0;
         int origoY = 0;
         int r = 100;
+        double magassag = 0;
+        double dX = 0;
 
 
         void koordRendszer()
@@ -119,12 +127,12 @@ namespace szinusz_rajzolo
         {
             Ellipse kor = new Ellipse();
 
-
+            kor.Stroke = Brushes.Red;
             kor.Fill = Brushes.LightGreen;
-            kor.HorizontalAlignment = HorizontalAlignment.Center;
-            kor.VerticalAlignment = VerticalAlignment.Center;
             kor.Width = r;
             kor.Height = r;
+            //kor.Margin = new Thickness(origoX + x - dX -r , origoY,0,0);
+            kor.Margin = new Thickness(0,0, 0, 0);
 
 
             canvas.Children.Add(kor);
@@ -134,11 +142,11 @@ namespace szinusz_rajzolo
         {
             Ellipse fekete = new Ellipse()
             {
-                Width = r / 10,
-                Height = r / 10,
+                Width = r / 10.0,
+                Height = r / 10.0,
                 Fill = Brushes.Black,
                 Stroke = Brushes.Black,
-                Margin = new Thickness(origoX - (r / 10 / 2) + x, origoY - (r / 10 / 2), 0, 0),
+                Margin = new Thickness(origoX - (r / 10.0 / 2) + x, origoY - (r / 10.0 / 2), 0, 0),
 
             };
 
@@ -147,7 +155,6 @@ namespace szinusz_rajzolo
 
         void pirosvonal(int x)
         {
-            double magassag = Math.Sin(x / 180.0 * Math.PI) * r;
             Line v = new Line()
             {
                 Stroke = Brushes.Red,
@@ -163,8 +170,6 @@ namespace szinusz_rajzolo
 
         void sugar(int x)
         {
-            double dX = Math.Sin(x / 180.0 * Math.PI) * r;
-            double magassag = Math.Sin(x / 180.0 * Math.PI) * r;
 
             Line v = new Line()
             {
@@ -181,16 +186,15 @@ namespace szinusz_rajzolo
 
         void kekKor(int x)
         {
-            double dX = Math.Sin(x / 180.0 * Math.PI) * r;
 
             Ellipse kor = new Ellipse()
             {
-                Stroke = Brushes.Black,
+                Stroke = Brushes.Red,
                 StrokeThickness = 1,
                 Width = 2 * r,
                 Height = 2 * r,
-                Margin = new Thickness(origoX + x - dX - r, origoY - r, 0, 0),
-
+                //Margin = new Thickness(origoX + x - r , origoY - r, 0, 0),
+                Margin = new Thickness(origoX + x - dX - r, origoY -r, 0, 0)
 
             };
 
@@ -200,7 +204,6 @@ namespace szinusz_rajzolo
         PointCollection points = new PointCollection();
         void szinuszGorbe(int x)
         {
-            double magassag = Math.Sin(x / 180.0 * Math.PI) * r;
 
             points.Add(new Point(x + origoX, origoY - magassag));
             Polyline vonal = new Polyline()
@@ -216,6 +219,15 @@ namespace szinusz_rajzolo
 
         void korIvKicsi(int x)
         {
+            double x1 = origoX + x - dX;
+            double y1 = origoY;
+            double x2 = origoX + x;
+            double y2 = origoY - magassag;
+
+            double x3 = x1 - (x1 - x2)/10;
+            double y3 = y1 - (y1 - y2) / 10;
+
+
             var path = new Path
             {
                 Stroke = Brushes.DarkBlue,
@@ -223,12 +235,38 @@ namespace szinusz_rajzolo
                 Data = new PathGeometry(new[]
                 {
                     new PathFigure(
-                        new Point(100, 100), // 1. Kezdőpont
+                        new Point(origoX + x - dX + r*.1,origoY), // 1. Kezdőpont
                         new PathSegment[]
                         {
                             new ArcSegment
                             {
-                                Point = new Point(100, 100), // 2. Végpont
+                                Point = new Point(x3,y3), // 2. Végpont
+                                Size = new Size(r*.1, r*.1), // 3. Sugár mérete
+                                RotationAngle = 0, // 4. Forgatás szöge
+                                IsLargeArc = x>180, // 5. Kisebb vagy nagyobb ív?
+                                SweepDirection = SweepDirection.Clockwise // 6. Irány
+                            }
+                        },
+                        false) // 7. A figura zárt vagy nyitott?
+                })
+            };
+            canvas.Children.Add(path);
+        }
+        void korIvNagy(int x)
+        {
+            var path = new Path
+            {
+                Stroke = Brushes.DarkBlue,
+                StrokeThickness = 2,
+                Data = new PathGeometry(new[]
+                {
+                    new PathFigure(
+                        new Point(origoX + x - dX + r,origoY), // 1. Kezdőpont
+                        new PathSegment[]
+                        {
+                            new ArcSegment
+                            {
+                                Point = new Point(origoX + x,origoY- magassag), // 2. Végpont
                                 Size = new Size(r, r), // 3. Sugár mérete
                                 RotationAngle = 0, // 4. Forgatás szöge
                                 IsLargeArc = false, // 5. Kisebb vagy nagyobb ív?
@@ -240,7 +278,6 @@ namespace szinusz_rajzolo
             };
             canvas.Children.Add(path);
         }
-
 
     }
 }
