@@ -11,6 +11,7 @@ using System.Windows.Media.Converters;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace szinusz_rajzolo
 {
@@ -40,11 +41,27 @@ namespace szinusz_rajzolo
             origoY = (int)canvas.ActualHeight/2;
 
             //korRajz(0, 0, 100);
-            int x = 220;
             magassag = Math.Sin(x / 180.0 * Math.PI) * r; 
             dX = Math.Cos(x / 180.0 * Math.PI) * r;
 
+            DispatcherTimer timer = new DispatcherTimer();
+            timer.Tick += rajzolo;
+            timer.Interval=TimeSpan.FromMilliseconds(10);
+            timer.Start();
+            
 
+        }
+
+        int x = 0;
+        int origoX = 0;
+        int origoY = 0;
+        int r = 100;
+        double magassag = 0;
+        double dX = 0;
+        bool eloremegy = true;
+        void rajzolo(object Sender, EventArgs e)
+        {
+            canvas.Children.Clear();
             koordRendszer();
             feketeKor(x);
             pirosvonal(x);
@@ -53,16 +70,17 @@ namespace szinusz_rajzolo
             szinuszGorbe(x);
             korIvKicsi(x);
             korIvNagy(x);
-
+            if (eloremegy)
+            {
+                x++;
+            }
+            else
+            {
+                x--;
+            }
+            if (x>=360) { eloremegy = false; }
+            else if (x <= 0) {  eloremegy = true; }
         }
-
-        int origoX = 0;
-        int origoY = 0;
-        int r = 100;
-        double magassag = 0;
-        double dX = 0;
-
-
         void koordRendszer()
         {
             Line xTengely = new Line();
@@ -243,7 +261,7 @@ namespace szinusz_rajzolo
                                 Point = new Point(x3,y3), // 2. Végpont
                                 Size = new Size(r*.1, r*.1), // 3. Sugár mérete
                                 RotationAngle = 0, // 4. Forgatás szöge
-                                IsLargeArc = x>180, // 5. Kisebb vagy nagyobb ív?
+                                IsLargeArc = x%360>180, // 5. Kisebb vagy nagyobb ív?
                                 SweepDirection = SweepDirection.Clockwise // 6. Irány
                             }
                         },
@@ -269,7 +287,7 @@ namespace szinusz_rajzolo
                                 Point = new Point(origoX + x,origoY- magassag), // 2. Végpont
                                 Size = new Size(r, r), // 3. Sugár mérete
                                 RotationAngle = 0, // 4. Forgatás szöge
-                                IsLargeArc = false, // 5. Kisebb vagy nagyobb ív?
+                                IsLargeArc = x%360>180, // 5. Kisebb vagy nagyobb ív?
                                 SweepDirection = SweepDirection.Clockwise // 6. Irány
                             }
                         },
