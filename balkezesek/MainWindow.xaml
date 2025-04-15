@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:balkezesek"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Balkezesek" Height="450" Width="800">
+    <Grid Loaded="Grid_Loaded">
+        <Button Content="3. feladat" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Width="60" Grid.Column="1" Height="20" Click="feladat3"/>
+        <TextBlock x:Name="harmadikFeladat" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="98,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Button Content="4. feladat" HorizontalAlignment="Left" Margin="30,62,0,0" VerticalAlignment="Top" Width="60" Click="feladat4"/>
+        <ListBox Margin="10,87,656,235"/>
 
     </Grid>
 </Window>

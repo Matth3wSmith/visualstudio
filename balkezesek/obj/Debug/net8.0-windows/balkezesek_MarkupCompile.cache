@@ -1,5 +1,5 @@
 ﻿balkezesek
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\App.xaml
 11407045341
 
-7-1281496433
+5-934189470
 198-635017904
 MainWindow.xaml;
 
-True
+False
 

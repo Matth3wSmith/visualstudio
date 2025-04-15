@@ -22,7 +22,7 @@ namespace balkezesek
             this.suly = suly;
             this.magassag = magassag;
         }
-        static jatekos Factory(string sor)
+        public static Jatekos Factory(string sor)
         {
             string[] vag = sor.Split(';');
             return new Jatekos(vag[0], DateOnly.Parse(vag[1]), DateOnly.Parse(vag[2]), int.Parse(vag[3]), int.Parse(vag[4]));
