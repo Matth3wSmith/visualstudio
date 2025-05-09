@@ -1,12 +1,12 @@
-D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\MainWindow.g.cs
-D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\App.g.cs
-D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\balkezesek_MarkupCompile.cache
-D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\balkezesek_MarkupCompile.lref
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\bin\Debug\net8.0-windows\balkezesek.exe
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\bin\Debug\net8.0-windows\balkezesek.deps.json
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\bin\Debug\net8.0-windows\balkezesek.runtimeconfig.json
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\bin\Debug\net8.0-windows\balkezesek.dll
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\bin\Debug\net8.0-windows\balkezesek.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\App.g.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\balkezesek_MarkupCompile.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\balkezesek_MarkupCompile.lref
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\MainWindow.baml
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\balkezesek.g.resources
 D:\munkakönyvtár\Kovács Máté\visualstudio\balkezesek\obj\Debug\net8.0-windows\balkezesek.GeneratedMSBuildEditorConfig.editorconfig

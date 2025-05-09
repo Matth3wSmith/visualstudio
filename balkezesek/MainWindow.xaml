@@ -10,7 +10,14 @@
         <Button Content="3. feladat" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Width="60" Grid.Column="1" Height="20" Click="feladat3"/>
         <TextBlock x:Name="harmadikFeladat" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="98,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
         <Button Content="4. feladat" HorizontalAlignment="Left" Margin="30,62,0,0" VerticalAlignment="Top" Width="60" Click="feladat4"/>
-        <ListBox Margin="10,87,656,235"/>
+        <ListBox x:Name="magassagok" Margin="10,87,604,125"/>
+        <Label Content="5. feladat" HorizontalAlignment="Left" Margin="270,14,0,0" VerticalAlignment="Top"/>
+        <Label Content="Adj meg egy évszámot [1990,1999] intervallumban:" HorizontalAlignment="Left" Margin="270,40,0,0" VerticalAlignment="Top" Height="30"/>
+        <TextBox x:Name="evszam" TextAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" Margin="555,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Height="30" TextChanged="TextBox_TextChanged"/>
+        <Button Content="Mentés" HorizontalAlignment="Left" Margin="270,72,0,0" VerticalAlignment="Top" Width="59" Click="Button_Click"/>
+        <Button Content="Átlagsúly" HorizontalAlignment="Left" Margin="270,178,0,0" VerticalAlignment="Top" Width="59" Click="atlagsuly_btn"/>
+        <Label Content="6. feladat" HorizontalAlignment="Left" Margin="270,121,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="atlagsulyLabel" Content="Átlagsúly: " HorizontalAlignment="Left" Margin="270,147,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.513,0.772"/>
 
     </Grid>
 </Window>
