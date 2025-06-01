@@ -23,6 +23,8 @@ namespace szinusz_rajzolo
         public MainWindow()
         {
             InitializeComponent();
+            double cccanvas = canvas.GetLeft;
+
         }
         //Szinusz függvény rajzolás lépései:
         //  - Koordináta rendszer rajzolása
@@ -51,11 +53,11 @@ namespace szinusz_rajzolo
             
 
         }
-
         int x = 0;
         int origoX = 0;
         int origoY = 0;
         int r = 100;
+        int g = r * 9;
         double magassag = 0;
         double dX = 0;
         bool eloremegy = true;
