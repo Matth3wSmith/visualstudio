@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\bin\Debug\net8.0\ascii.exe
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\bin\Debug\net8.0\ascii.deps.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\bin\Debug\net8.0\ascii.runtimeconfig.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\bin\Debug\net8.0\ascii.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\bin\Debug\net8.0\ascii.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ascii.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ascii.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ascii.AssemblyInfo.cs
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ascii.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ascii.sourcelink.json
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ascii.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\refint\ascii.dll
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ascii.pdb
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ascii.genruntimeconfig.cache
+D:\munkakönyvtár\Kovács Máté\visualstudio\Erettsegi-feladatok\ascii\obj\Debug\net8.0\ref\ascii.dll
