@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("konyvek-wpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4625906e003fb4efe2f2004f2215bb665baaa83a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2912fe0cc6808205cb022bc9d808e0169452dbc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("konyvek-wpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("konyvek-wpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

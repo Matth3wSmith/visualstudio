@@ -8,24 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kovács Máté\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\kovacsm22\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Suli\\Programozasi-alapok\\c#\\Erettsegi-feladatok\\konyvek-wpf\\konyvek-wpf.csproj",
+      "projectUniqueName": "D:\\munkakönyvtár\\Kovács Máté\\visualstudio\\Erettsegi-feladatok\\konyvek-wpf\\konyvek-wpf.csproj",
       "projectName": "konyvek-wpf",
-      "projectPath": "G:\\Suli\\Programozasi-alapok\\c#\\Erettsegi-feladatok\\konyvek-wpf\\konyvek-wpf.csproj",
-      "packagesPath": "C:\\Users\\Kovács Máté\\.nuget\\packages\\",
-      "outputPath": "G:\\Suli\\Programozasi-alapok\\c#\\Erettsegi-feladatok\\konyvek-wpf\\obj\\",
+      "projectPath": "D:\\munkakönyvtár\\Kovács Máté\\visualstudio\\Erettsegi-feladatok\\konyvek-wpf\\konyvek-wpf.csproj",
+      "packagesPath": "C:\\Users\\kovacsm22\\.nuget\\packages\\",
+      "outputPath": "D:\\munkakönyvtár\\Kovács Máté\\visualstudio\\Erettsegi-feladatok\\konyvek-wpf\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Kovács Máté\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\kovacsm22\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -74,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
